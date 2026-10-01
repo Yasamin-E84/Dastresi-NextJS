@@ -4871,6 +4871,7 @@
       "oldPrice": 2545000,
       "currency": "تومان",
       "available": true,
+      "colors": ["#000000"],
       "id": 6
     },
     {
@@ -4883,6 +4884,7 @@
       "oldPrice": 1890000,
       "currency": "تومان",
       "available": true,
+      "colors": ["#ffffff"],
       "id": 7
     },
     {
@@ -4895,6 +4897,7 @@
       "oldPrice": 0,
       "currency": "تومان",
       "available": false,
+      "colors": ["#000000"],
       "id": 8
     },
     {
@@ -4907,6 +4910,7 @@
       "oldPrice": 0,
       "currency": "تومان",
       "available": true,
+      "colors": ["#000000", "#16a34a"],
       "id": 9
     },
     {
@@ -4919,6 +4923,7 @@
       "oldPrice": 0,
       "currency": "تومان",
       "available": false,
+      "colors": ["#16a34a"],
       "id": 10
     },
     {
@@ -4931,6 +4936,7 @@
       "oldPrice": 0,
       "currency": "تومان",
       "available": true,
+      "colors": ["#000000"],
       "id": 11
     },
     {
@@ -4943,6 +4949,7 @@
       "oldPrice": 0,
       "currency": "تومان",
       "available": true,
+      "colors": ["#000000"],
       "id": 12
     },
     {
@@ -4955,6 +4962,7 @@
       "oldPrice": 0,
       "currency": "تومان",
       "available": true,
+      "colors": ["#000000", "#f97316"],
       "id": 13
     },
     {
@@ -4967,6 +4975,7 @@
       "oldPrice": 0,
       "currency": "تومان",
       "available": false,
+      "colors": ["#000000"],
       "id": 14
     },
     {
@@ -4979,6 +4988,7 @@
       "oldPrice": 5180000,
       "currency": "تومان",
       "available": true,
+      "colors": ["#000000"],
       "id": 15
     },
     {
@@ -4991,6 +5001,7 @@
       "oldPrice": 0,
       "currency": "تومان",
       "available": false,
+      "colors": ["#ffffff"],
       "id": 16
     }
   ],
@@ -5005,6 +5016,7 @@
       "oldPrice": 2050000,
       "currency": "تومان",
       "available": true,
+      "colors": ["#ffffff"],
       "id": 17
     },
     {
@@ -5017,6 +5029,7 @@
       "oldPrice": 5180000,
       "currency": "تومان",
       "available": true,
+      "colors": ["#000000"],
       "id": 15
     },
     {
@@ -5029,6 +5042,7 @@
       "oldPrice": 4631000,
       "currency": "تومان",
       "available": true,
+      "colors": ["#000000"],
       "id": 18
     },
     {
@@ -5041,6 +5055,7 @@
       "oldPrice": 1900000,
       "currency": "تومان",
       "available": true,
+      "colors": ["#000000"],
       "id": 19
     },
     {
@@ -5053,6 +5068,7 @@
       "oldPrice": 0,
       "currency": "تومان",
       "available": true,
+      "colors": ["#f59e0b", "#22c55e", "#ef4444"],
       "id": 20
     },
     {
@@ -5065,6 +5081,7 @@
       "oldPrice": 0,
       "currency": "تومان",
       "available": true,
+      "colors": ["#f59e0b", "#22c55e", "#ef4444"],
       "id": 21
     },
     {
@@ -5077,6 +5094,7 @@
       "oldPrice": 3190000,
       "currency": "تومان",
       "available": true,
+      "colors": ["#a855f7", "#ec4899"],
       "id": 22
     },
     {
@@ -5089,6 +5107,7 @@
       "oldPrice": 5100000,
       "currency": "تومان",
       "available": true,
+      "colors": ["#000000"],
       "id": 23
     },
     {
@@ -5101,11 +5120,12 @@
       "oldPrice": 5500000,
       "currency": "تومان",
       "available": true,
+      "colors": ["#000000"],
       "id": 24
     },
     {
       "title": "فلش مموری وریتی ظرفیت 64 گیگ مدل V...",
-      "img": "https://www.dastresi.com/\r\nupload/filemanager/2021/03/17/VER-810-1.jpg",
+      "img": "https://www.dastresi.com/upload/filemanager/2021/03/17/VER-810-1.jpg",
       "alt": "وریتی",
       "link": "https://www.dastresi.com/product/1038",
       "category": "فلش مموری",
@@ -5113,11 +5133,12 @@
       "oldPrice": 1503000,
       "currency": "تومان",
       "available": true,
+      "colors": ["#c0c0c0"],
       "id": 25
     },
     {
       "title": "فلش مموری وریتی ظرفیت 16 گیگ مدل V...",
-      "img": "https://www.dastresi.com/\r\nupload/filemanager/2021/03/17/VER-810-1.jpg",
+      "img": "https://www.dastresi.com/upload/filemanager/2021/03/17/VER-810-1.jpg",
       "alt": "وریتی",
       "link": "https://www.dastresi.com/product/1037",
       "category": "فلش مموری",
@@ -5125,6 +5146,7 @@
       "oldPrice": 820000,
       "currency": "تومان",
       "available": true,
+      "colors": ["#c0c0c0"],
       "id": 26
     }
   ],
@@ -5538,16 +5560,7 @@
   ],
   "responsive": {
     "desktop": {
-      "featuredCategoryIds": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8
-      ],
+      "featuredCategoryIds": [1, 2, 3, 4, 5, 6, 7, 8],
       "productCardLayout": "carousel",
       "sectionOrder": [
         "slider",
@@ -5561,14 +5574,7 @@
       ]
     },
     "mobile": {
-      "featuredCategoryIds": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6
-      ],
+      "featuredCategoryIds": [1, 2, 3, 4, 5, 6],
       "productCardLayout": "stacked-carousel",
       "sectionOrder": [
         "slider",

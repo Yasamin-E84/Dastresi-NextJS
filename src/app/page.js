@@ -10,17 +10,26 @@ import {
   getFeaturedCategoriesData,
   getNewlyAvailableData,
   getBestSellersData,
+  getBrandsData,
 } from "@/lib/api";
+import BrandsCarousel from "@/components/home/brands/BrandsCarousel";
 
 export default async function Home() {
-  const [slides, dailyDeals, featuredCategories, newlyAvailable, bestSellers] =
-    await Promise.all([
-      getSliderData(),
-      getDailyDealsData(),
-      getFeaturedCategoriesData(),
-      getNewlyAvailableData(),
-      getBestSellersData(),
-    ]);
+  const [
+    slides,
+    dailyDeals,
+    featuredCategories,
+    newlyAvailable,
+    bestSellers,
+    brands,
+  ] = await Promise.all([
+    getSliderData(),
+    getDailyDealsData(),
+    getFeaturedCategoriesData(),
+    getNewlyAvailableData(),
+    getBestSellersData(),
+    getBrandsData(),
+  ]);
 
   return (
     <>
@@ -31,6 +40,7 @@ export default async function Home() {
         <FeaturedCategories categories={featuredCategories} />
         <NewlyAvailable products={newlyAvailable} />
         <BestSellers products={bestSellers} />
+        <BrandsCarousel brands={brands} />
       </main>
     </>
   );

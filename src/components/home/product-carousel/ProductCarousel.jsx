@@ -1,6 +1,6 @@
 "use client";
 
-import { Navigation } from "swiper/modules";
+import { Navigation, Autoplay } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 import ProductCard from "./ProductCard";
 import "swiper/css";
@@ -24,22 +24,23 @@ export default function ProductCarousel({
 
         <a
           href={viewAllLink}
-          className="hidden items-center gap-2 text-xs text-gray-600 transition hover:text-[#0865c4] sm:flex"
+          className="hidden items-center gap-2 text-xs text-gray-600 transition sm:flex"
         >
           <span>مشاهده همه محصولات</span>
-          <span className="flex h-5 w-5 items-center justify-center rounded-md border border-[#0865c4] text-[#0865c4]">
-            ‹
+          <span className="flex h-5 w-5 items-center justify-center rounded-md border border-gray-900 text-gray-900 text-lg">
+            ›
           </span>
         </a>
       </div>
 
       <div className="relative">
         <Swiper
-          modules={[Navigation]}
+          modules={[Navigation, Autoplay]}
           dir="rtl"
           spaceBetween={18}
           speed={450}
           grabCursor
+          autoplay={{ delay: 4000, disableOnInteraction: false }}
           navigation={{ prevEl: `.${prevClass}`, nextEl: `.${nextClass}` }}
           breakpoints={{
             0: { slidesPerView: 2.15, spaceBetween: 12 },
@@ -56,11 +57,9 @@ export default function ProductCarousel({
           ))}
         </Swiper>
 
-        <button
-          className={`${prevClass} absolute -left-4 top-1/2 z-10 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-gray-200 bg-white text-gray-400 shadow-sm`}
-        >
+        <button className="featured-prev absolute -left-2 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full cursor-pointer bg-white text-gray-400 shadow-sm transition hover:text-black hover:bg-gray-400">
           <svg
-            className="h-4 w-4"
+            className="h-5 w-5"
             fill="none"
             viewBox="0 0 24 24"
             stroke="currentColor"
@@ -74,11 +73,9 @@ export default function ProductCarousel({
           </svg>
         </button>
 
-        <button
-          className={`${nextClass} absolute -right-4 top-1/2 z-10 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-gray-200 bg-white text-gray-400 shadow-sm`}
-        >
+        <button className="featured-next absolute -right-2 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full cursor-pointer bg-white text-gray-400 shadow-sm transition hover:text-black hover:bg-gray-400">
           <svg
-            className="h-4 w-4"
+            className="h-5 w-5"
             fill="none"
             viewBox="0 0 24 24"
             stroke="currentColor"

@@ -19,16 +19,22 @@ export async function getHeaderData() {
 export async function getSliderData() {
   return get("slider");
 }
+
 export async function getDailyDealsData() {
   return get("dailyDeals");
 }
+
 export async function getFeaturedCategoriesData() {
   return get("featuredCategories");
 }
+
 export async function getNewlyAvailableData() {
   return get("newlyAvailable");
 }
 
 export async function getBestSellersData() {
   return get("bestSellers");
+}
+export async function getBrandsData() {
+  return get("brands");
 }
