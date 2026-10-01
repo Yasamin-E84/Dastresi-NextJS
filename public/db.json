@@ -7,7 +7,7 @@
     "direction": "rtl",
     "note": "Home-page data only. All image URLs point to the original dastresi.com assets."
   },
-  // "site": {
+  "site": {
     "title": "فروشگاه اینترنتی دسترسی",
     "logo": {
       "img": "https://www.dastresi.com/images/logo/logo.png",
