@@ -1,7 +1,8 @@
 const nextConfig = {
   output: "export",
-
+  basePath: "/Dastresi-NextJS",
   assetPrefix: "/Dastresi-NextJS/",
+  trailingSlash: true,
 
   images: {
     unoptimized: true,
