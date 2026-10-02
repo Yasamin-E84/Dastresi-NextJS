@@ -40,7 +40,7 @@ export default function FeaturedCategories({ categories }) {
           ))}
         </Swiper>
 
-        <button className="featured-prev absolute -left-2 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full cursor-pointer bg-white text-gray-400 shadow-sm transition hover:text-black hover:bg-gray-400">
+        <button className="featured-next absolute -left-2 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full cursor-pointer bg-white text-gray-400 shadow-sm transition hover:text-black hover:bg-gray-400">
           <svg
             className="h-5 w-5"
             fill="none"
@@ -56,7 +56,7 @@ export default function FeaturedCategories({ categories }) {
           </svg>
         </button>
 
-        <button className="featured-next absolute -right-2 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full cursor-pointer bg-white text-gray-400 shadow-sm transition hover:text-black hover:bg-gray-400">
+        <button className="featured-prev absolute -right-2 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full cursor-pointer bg-white text-gray-400 shadow-sm transition hover:text-black hover:bg-gray-400">
           <svg
             className="h-5 w-5"
             fill="none"

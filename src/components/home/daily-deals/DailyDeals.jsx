@@ -5,7 +5,7 @@ export default function DailyDeals({ products }) {
   const [featured, tall, ...compact] = products;
 
   return (
-    <section className="mx-auto mt-7 w-[95%] max-w-7xl rounded-xl bg-[#dedede] p-5 lg:p-8">
+    <section className="mx-auto mt-7 max-w-7xl rounded-xl bg-[#dedede] p-5 lg:p-8">
       <div className="mb-6 flex items-center justify-center lg:mb-7 lg:justify-between">
         <h2 className="flex items-center gap-2 text-xl font-extrabold text-[#777] lg:text-4xl"><span className="text-[#ff5964]">%</span>تخفیف‌های روزانه دسترسی</h2>
         <div className="hidden lg:block"><DealCountdown /></div>

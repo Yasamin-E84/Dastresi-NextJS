@@ -1,10 +1,9 @@
 "use client";
 
-import { Navigation, Autoplay } from "swiper/modules";
+import { Autoplay, Navigation } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 import ProductCard from "./ProductCard";
 import "swiper/css";
-import "swiper/css/navigation";
 
 export default function ProductCarousel({
   title,
@@ -16,7 +15,7 @@ export default function ProductCarousel({
   const nextClass = `${id}-next`;
 
   return (
-    <section className="mx-auto mt-10 w-[95%] max-w-7xl rounded-xl bg-[#dedede] p-4 sm:p-6 lg:p-8">
+    <section className="mx-auto my-10 max-w-7xl rounded-xl bg-[#dedede] p-4 sm:p-6 lg:p-8">
       <div className="mb-7 flex items-center justify-between">
         <h2 className="text-xl font-extrabold text-[#777] lg:text-2xl">
           {title}
@@ -27,7 +26,7 @@ export default function ProductCarousel({
           className="hidden items-center gap-2 text-xs text-gray-600 transition sm:flex"
         >
           <span>مشاهده همه محصولات</span>
-          <span className="flex h-5 w-5 items-center justify-center rounded-md border border-gray-900 text-gray-900 text-lg">
+          <span className="flex h-5 w-5 items-center justify-center rounded-md border border-gray-900 text-lg text-gray-900">
             ›
           </span>
         </a>
@@ -37,11 +36,13 @@ export default function ProductCarousel({
         <Swiper
           modules={[Navigation, Autoplay]}
           dir="rtl"
-          spaceBetween={18}
           speed={450}
           grabCursor
           autoplay={{ delay: 4000, disableOnInteraction: false }}
-          navigation={{ prevEl: `.${prevClass}`, nextEl: `.${nextClass}` }}
+          navigation={{
+            prevEl: `.${prevClass}`,
+            nextEl: `.${nextClass}`,
+          }}
           breakpoints={{
             0: { slidesPerView: 2.15, spaceBetween: 12 },
             430: { slidesPerView: 3, spaceBetween: 18 },
@@ -57,7 +58,10 @@ export default function ProductCarousel({
           ))}
         </Swiper>
 
-        <button className="featured-prev absolute -left-2 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full cursor-pointer bg-white text-gray-400 shadow-sm transition hover:text-black hover:bg-gray-400">
+        <button
+          type="button"
+          className={`${nextClass} absolute -left-2 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 cursor-pointer items-center justify-center rounded-full bg-white text-gray-400 shadow-sm transition hover:bg-gray-400 hover:text-black`}
+        >
           <svg
             className="h-5 w-5"
             fill="none"
@@ -73,7 +77,10 @@ export default function ProductCarousel({
           </svg>
         </button>
 
-        <button className="featured-next absolute -right-2 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full cursor-pointer bg-white text-gray-400 shadow-sm transition hover:text-black hover:bg-gray-400">
+        <button
+          type="button"
+          className={`${prevClass} absolute -right-2 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 cursor-pointer items-center justify-center rounded-full bg-white text-gray-400 shadow-sm transition hover:bg-gray-400 hover:text-black`}
+        >
           <svg
             className="h-5 w-5"
             fill="none"

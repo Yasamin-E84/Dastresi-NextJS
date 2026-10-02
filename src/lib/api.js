@@ -38,3 +38,9 @@ export async function getBestSellersData() {
 export async function getBrandsData() {
   return get("brands");
 }
+export async function getWhyUsData() {
+  return get("services");
+}
+export async function getArticlesData() {
+  return get("latestArticles");
+}
