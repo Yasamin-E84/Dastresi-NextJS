@@ -1,9 +1,14 @@
-const API_URL = "http://localhost:5000";
+import fs from "fs/promises";
+import path from "path";
 
 async function get(endpoint) {
-  const res = await fetch(`${API_URL}/${endpoint}`, { cache: "no-store" });
-  if (!res.ok) throw new Error(`Failed to fetch ${endpoint}`);
-  return res.json();
+  const filePath = path.join(process.cwd(), "public", "db.json");
+
+  const file = await fs.readFile(filePath, "utf-8");
+
+  const data = JSON.parse(file);
+
+  return data[endpoint];
 }
 
 export async function getHeaderData() {
@@ -13,6 +18,7 @@ export async function getHeaderData() {
     get("mobileHeader"),
     get("megaMenu"),
   ]);
+
   return { site, desktopHeader, mobileHeader, megaMenu };
 }
 
@@ -35,15 +41,19 @@ export async function getNewlyAvailableData() {
 export async function getBestSellersData() {
   return get("bestSellers");
 }
+
 export async function getBrandsData() {
   return get("brands");
 }
+
 export async function getWhyUsData() {
   return get("services");
 }
+
 export async function getArticlesData() {
   return get("latestArticles");
 }
+
 export async function getFooterData() {
   return get("footer");
 }
