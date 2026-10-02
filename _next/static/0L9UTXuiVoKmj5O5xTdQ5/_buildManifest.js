@@ -4,7 +4,7 @@ self.__BUILD_MANIFEST = {
     "beforeFiles": [
       {
         "source": "/Dastresi-NextJS//_next/:path+",
-        "destination": "/_next/:path+"
+        "destination": "/Dastresi-NextJS/_next/:path+"
       }
     ],
     "fallback": []
