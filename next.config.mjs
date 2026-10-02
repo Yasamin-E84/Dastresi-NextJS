@@ -1,6 +1,8 @@
 const nextConfig = {
   output: "export",
-  basePath: "/Dastresi-NextJS",
+
+  assetPrefix: "/Dastresi-NextJS/",
+
   images: {
     unoptimized: true,
     remotePatterns: [
