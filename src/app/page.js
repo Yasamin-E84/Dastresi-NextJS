@@ -13,10 +13,12 @@ import {
   getBrandsData,
   getWhyUsData,
   getArticlesData,
+  getFooterData,
 } from "@/lib/api";
 import BrandsCarousel from "@/components/home/brands/BrandsCarousel";
 import WhyChooseUs from "@/components/home/why-choose-us/WhyChooseUs";
 import ArticlesCarousel from "@/components/home/articles/ArticlesCarousel";
+import Footer from "@/components/footer/Footer";
 
 export default async function Home() {
   const [
@@ -28,6 +30,7 @@ export default async function Home() {
     brands,
     services,
     latestArticles,
+    footer,
   ] = await Promise.all([
     getSliderData(),
     getDailyDealsData(),
@@ -37,6 +40,7 @@ export default async function Home() {
     getBrandsData(),
     getWhyUsData(),
     getArticlesData(),
+    getFooterData(),
   ]);
 
   return (
@@ -52,6 +56,7 @@ export default async function Home() {
         <BrandsCarousel brands={brands} />
         <ArticlesCarousel articles={latestArticles} />
       </main>
+      <Footer footer={footer} />
     </>
   );
 }

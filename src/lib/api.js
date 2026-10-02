@@ -44,3 +44,6 @@ export async function getWhyUsData() {
 export async function getArticlesData() {
   return get("latestArticles");
 }
+export async function getFooterData() {
+  return get("footer");
+}
