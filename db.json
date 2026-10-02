@@ -1,0 +1,5905 @@
+{
+  "meta": {
+    "source": "https://www.dastresi.com",
+    "generatedAt": "2026-09-26T19:29:14.340Z",
+    "currency": "تومان",
+    "locale": "fa-IR",
+    "direction": "rtl",
+    "note": "Home-page data only. All image URLs point to the original dastresi.com assets."
+  },
+  "site": {
+    "title": "فروشگاه اینترنتی دسترسی",
+    "logo": {
+      "img": "https://www.dastresi.com/images/logo/logo.png",
+      "alt": "فروشگاه اینترنتی دسترسی"
+    },
+    "searchPlaceholder": "جستجو محصولات",
+    "headerLinks": [
+      {
+        "title": "باشگاه مشتریان",
+        "link": "https://www.dastresi.com/customer-club"
+      },
+      {
+        "title": "بلاگ",
+        "link": "https://www.dastresi.com/blog"
+      },
+      {
+        "title": "ارتباط ما",
+        "link": "https://www.dastresi.com/contact"
+      },
+      {
+        "title": "درباره ما",
+        "link": "https://www.dastresi.com/about"
+      }
+    ]
+  },
+  "megaMenu": [
+    {
+      "id": "dropdown-3",
+      "title": "لوازم جانبی موبایل و کامپیوتر",
+      "link": "https://www.dastresi.com/products/mobile-accessories",
+      "hoverItems": [
+        {
+          "id": 1,
+          "title": "کابل شارژ",
+          "link": "https://www.dastresi.com/products/Charging-Cable"
+        },
+        {
+          "id": 2,
+          "title": "کابل شارژ میکرو یو اس بی",
+          "link": "https://www.dastresi.com/products/Microusb-Cable"
+        },
+        {
+          "id": 3,
+          "title": "کابل شارژ تایپ سی",
+          "link": "https://www.dastresi.com/products/TypeC-Cable"
+        },
+        {
+          "id": 4,
+          "title": "کابل شارژ لایتنینگ",
+          "link": "https://www.dastresi.com/products/Lightning-cable"
+        },
+        {
+          "id": 5,
+          "title": "کابل شارژ دو سر تایپ سی",
+          "link": "https://www.dastresi.com/products/typec-to-typec"
+        },
+        {
+          "id": 6,
+          "title": "کابل شارژ تایپ سی به لایتنینگ",
+          "link": "https://www.dastresi.com/products/typec-to-lightning"
+        },
+        {
+          "id": 7,
+          "title": "کابل شارژ سه کاره",
+          "link": "https://www.dastresi.com/products/3-functions"
+        },
+        {
+          "id": 8,
+          "title": "کابل شارژ سامسونگ",
+          "link": "https://www.dastresi.com/products/Samsung-cable"
+        },
+        {
+          "id": 9,
+          "title": "کابل شارژ آیفون",
+          "link": "https://www.dastresi.com/products/iphone-cable"
+        },
+        {
+          "id": 10,
+          "title": "هولدر و نگهدارنده",
+          "link": "https://www.dastresi.com/products/holders"
+        },
+        {
+          "id": 11,
+          "title": "تجهیزات ذخیره سازی",
+          "link": "https://www.dastresi.com/products/153"
+        },
+        {
+          "id": 12,
+          "title": "فلش مموری",
+          "link": "https://www.dastresi.com/products/flash-memory"
+        },
+        {
+          "id": 13,
+          "title": "کارت حافظه",
+          "link": "https://www.dastresi.com/products/memory-card"
+        },
+        {
+          "id": 14,
+          "title": "هارد اکسترنال",
+          "link": "https://www.dastresi.com/products/156"
+        },
+        {
+          "id": 15,
+          "title": "هندزفری و هدست، میکروفون",
+          "link": "https://www.dastresi.com/products/headset"
+        },
+        {
+          "id": 16,
+          "title": "میکروفون",
+          "link": "https://www.dastresi.com/products/167"
+        },
+        {
+          "id": 17,
+          "title": "هندزفری سیم دار",
+          "link": "https://www.dastresi.com/products/Wired-handsfree"
+        },
+        {
+          "id": 18,
+          "title": "هدست سیم دار",
+          "link": "https://www.dastresi.com/products/wired-headset"
+        },
+        {
+          "id": 19,
+          "title": "هدفون بلوتوث",
+          "link": "https://www.dastresi.com/products/Bluetooth-Headphones"
+        },
+        {
+          "id": 20,
+          "title": "هندزفری بلوتوثی",
+          "link": "https://www.dastresi.com/products/bluetooth-handsfree"
+        },
+        {
+          "id": 21,
+          "title": "هندزفری بلوتوث دورگردنی",
+          "link": "https://www.dastresi.com/products/neckband-headset"
+        },
+        {
+          "id": 22,
+          "title": "هندزفری بلوتوث تک گوش",
+          "link": "https://www.dastresi.com/products/125"
+        },
+        {
+          "id": 23,
+          "title": "پاوربانک",
+          "link": "https://www.dastresi.com/products/PowerBank"
+        },
+        {
+          "id": 24,
+          "title": "جامپ استارتر",
+          "link": "https://www.dastresi.com/products/jump-starter"
+        },
+        {
+          "id": 25,
+          "title": "اسپیکر",
+          "link": "https://www.dastresi.com/products/Speaker"
+        },
+        {
+          "id": 26,
+          "title": "ماوس و کیبورد و پدموس",
+          "link": "https://www.dastresi.com/products/172"
+        },
+        {
+          "id": 27,
+          "title": "آداپتور و شارژر",
+          "link": "https://www.dastresi.com/products/Charger"
+        },
+        {
+          "id": 28,
+          "title": "شارژر دیواری",
+          "link": "https://www.dastresi.com/products/wall-charger"
+        },
+        {
+          "id": 29,
+          "title": "شارژر وایرلس",
+          "link": "https://www.dastresi.com/products/wireless-charger"
+        },
+        {
+          "id": 30,
+          "title": "شارژر رومیزی",
+          "link": "https://www.dastresi.com/products/desktop-charger"
+        },
+        {
+          "id": 31,
+          "title": "شارژر فندکی",
+          "link": "https://www.dastresi.com/products/car-charger"
+        },
+        {
+          "id": 32,
+          "title": "شارژر سامسونگ",
+          "link": "https://www.dastresi.com/products/samsung-charger"
+        },
+        {
+          "id": 33,
+          "title": "شارژر آیفون",
+          "link": "https://www.dastresi.com/products/iphone-charger"
+        },
+        {
+          "id": 34,
+          "title": "دسته بازی و خنک کننده موبایل",
+          "link": "https://www.dastresi.com/products/189"
+        },
+        {
+          "id": 35,
+          "title": "انواع تبدیل برق",
+          "link": "https://www.dastresi.com/products/190"
+        },
+        {
+          "id": 36,
+          "title": "کابل و دانگل انتقال تصویر",
+          "link": "https://www.dastresi.com/products/191"
+        },
+        {
+          "id": 37,
+          "title": "هاب تایپ سی و یو اس بی",
+          "link": "https://www.dastresi.com/products/192"
+        },
+        {
+          "id": 38,
+          "title": "فن خنک کننده کامپیوتر",
+          "link": "https://www.dastresi.com/products/193"
+        },
+        {
+          "id": 39,
+          "title": "قاب و گلس",
+          "link": "https://www.dastresi.com/products/198"
+        }
+      ],
+      "tree": [
+        {
+          "id": 1,
+          "title": "کابل شارژ",
+          "link": "https://www.dastresi.com/products/Charging-Cable",
+          "children": [
+            {
+              "title": "کابل شارژ میکرو یو اس بی",
+              "link": "https://www.dastresi.com/products/Microusb-Cable"
+            },
+            {
+              "title": "کابل شارژ تایپ سی",
+              "link": "https://www.dastresi.com/products/TypeC-Cable"
+            },
+            {
+              "title": "کابل شارژ لایتنینگ",
+              "link": "https://www.dastresi.com/products/Lightning-cable"
+            },
+            {
+              "title": "کابل شارژ دو سر تایپ سی",
+              "link": "https://www.dastresi.com/products/typec-to-typec"
+            },
+            {
+              "title": "کابل شارژ تایپ سی به لایتنینگ",
+              "link": "https://www.dastresi.com/products/typec-to-lightning"
+            },
+            {
+              "title": "کابل شارژ سه کاره",
+              "link": "https://www.dastresi.com/products/3-functions"
+            },
+            {
+              "title": "کابل شارژ سامسونگ",
+              "link": "https://www.dastresi.com/products/Samsung-cable"
+            },
+            {
+              "title": "کابل شارژ آیفون",
+              "link": "https://www.dastresi.com/products/iphone-cable"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "هولدر و نگهدارنده",
+          "link": "https://www.dastresi.com/products/holders",
+          "children": []
+        },
+        {
+          "id": 3,
+          "title": "تجهیزات ذخیره سازی",
+          "link": "https://www.dastresi.com/products/153",
+          "children": [
+            {
+              "title": "فلش مموری",
+              "link": "https://www.dastresi.com/products/flash-memory"
+            },
+            {
+              "title": "کارت حافظه",
+              "link": "https://www.dastresi.com/products/memory-card"
+            },
+            {
+              "title": "هارد اکسترنال",
+              "link": "https://www.dastresi.com/products/156"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "هندزفری و هدست، میکروفون",
+          "link": "https://www.dastresi.com/products/headset",
+          "children": [
+            {
+              "title": "میکروفون",
+              "link": "https://www.dastresi.com/products/167"
+            },
+            {
+              "title": "هندزفری سیم دار",
+              "link": "https://www.dastresi.com/products/Wired-handsfree"
+            },
+            {
+              "title": "هدست سیم دار",
+              "link": "https://www.dastresi.com/products/wired-headset"
+            },
+            {
+              "title": "هدفون بلوتوث",
+              "link": "https://www.dastresi.com/products/Bluetooth-Headphones"
+            },
+            {
+              "title": "هندزفری بلوتوثی",
+              "link": "https://www.dastresi.com/products/bluetooth-handsfree"
+            },
+            {
+              "title": "هندزفری بلوتوث دورگردنی",
+              "link": "https://www.dastresi.com/products/neckband-headset"
+            },
+            {
+              "title": "هندزفری بلوتوث تک گوش",
+              "link": "https://www.dastresi.com/products/125"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "پاوربانک",
+          "link": "https://www.dastresi.com/products/PowerBank",
+          "children": [
+            {
+              "title": "جامپ استارتر",
+              "link": "https://www.dastresi.com/products/jump-starter"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "اسپیکر",
+          "link": "https://www.dastresi.com/products/Speaker",
+          "children": []
+        },
+        {
+          "id": 7,
+          "title": "ماوس و کیبورد و پدموس",
+          "link": "https://www.dastresi.com/products/172",
+          "children": []
+        },
+        {
+          "id": 8,
+          "title": "آداپتور و شارژر",
+          "link": "https://www.dastresi.com/products/Charger",
+          "children": [
+            {
+              "title": "شارژر دیواری",
+              "link": "https://www.dastresi.com/products/wall-charger"
+            },
+            {
+              "title": "شارژر وایرلس",
+              "link": "https://www.dastresi.com/products/wireless-charger"
+            },
+            {
+              "title": "شارژر رومیزی",
+              "link": "https://www.dastresi.com/products/desktop-charger"
+            },
+            {
+              "title": "شارژر فندکی",
+              "link": "https://www.dastresi.com/products/car-charger"
+            },
+            {
+              "title": "شارژر سامسونگ",
+              "link": "https://www.dastresi.com/products/samsung-charger"
+            },
+            {
+              "title": "شارژر آیفون",
+              "link": "https://www.dastresi.com/products/iphone-charger"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "title": "دسته بازی و خنک کننده موبایل",
+          "link": "https://www.dastresi.com/products/189",
+          "children": []
+        },
+        {
+          "id": 10,
+          "title": "انواع تبدیل برق",
+          "link": "https://www.dastresi.com/products/190",
+          "children": []
+        },
+        {
+          "id": 11,
+          "title": "کابل و دانگل انتقال تصویر",
+          "link": "https://www.dastresi.com/products/191",
+          "children": []
+        },
+        {
+          "id": 12,
+          "title": "هاب تایپ سی و یو اس بی",
+          "link": "https://www.dastresi.com/products/192",
+          "children": []
+        },
+        {
+          "id": 13,
+          "title": "فن خنک کننده کامپیوتر",
+          "link": "https://www.dastresi.com/products/193",
+          "children": []
+        },
+        {
+          "id": 14,
+          "title": "قاب و گلس",
+          "link": "https://www.dastresi.com/products/198",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "dropdown-33",
+      "title": "کابل - مبدل - رابط",
+      "link": "https://www.dastresi.com/products/132",
+      "hoverItems": [
+        {
+          "id": 1,
+          "title": "کابل HDMI",
+          "link": "https://www.dastresi.com/products/hdmi-cable"
+        },
+        {
+          "id": 2,
+          "title": "کابل پرینتر",
+          "link": "https://www.dastresi.com/products/135"
+        },
+        {
+          "id": 3,
+          "title": "کابل هارد اکسترنال",
+          "link": "https://www.dastresi.com/products/137"
+        },
+        {
+          "id": 4,
+          "title": "انواع رابط و تبدیل",
+          "link": "https://www.dastresi.com/products/139"
+        },
+        {
+          "id": 5,
+          "title": "کابل AUX",
+          "link": "https://www.dastresi.com/products/158"
+        },
+        {
+          "id": 6,
+          "title": "کابل 2 به 1 صدا",
+          "link": "https://www.dastresi.com/products/163"
+        },
+        {
+          "id": 7,
+          "title": "کابل اپتیکال",
+          "link": "https://www.dastresi.com/products/166"
+        },
+        {
+          "id": 8,
+          "title": "کابل و فیش OTG",
+          "link": "https://www.dastresi.com/products/196"
+        }
+      ],
+      "tree": [
+        {
+          "id": 1,
+          "title": "کابل HDMI",
+          "link": "https://www.dastresi.com/products/hdmi-cable",
+          "children": []
+        },
+        {
+          "id": 2,
+          "title": "کابل پرینتر",
+          "link": "https://www.dastresi.com/products/135",
+          "children": []
+        },
+        {
+          "id": 3,
+          "title": "کابل هارد اکسترنال",
+          "link": "https://www.dastresi.com/products/137",
+          "children": []
+        },
+        {
+          "id": 4,
+          "title": "انواع رابط و تبدیل",
+          "link": "https://www.dastresi.com/products/139",
+          "children": []
+        },
+        {
+          "id": 5,
+          "title": "کابل AUX",
+          "link": "https://www.dastresi.com/products/158",
+          "children": []
+        },
+        {
+          "id": 6,
+          "title": "کابل 2 به 1 صدا",
+          "link": "https://www.dastresi.com/products/163",
+          "children": []
+        },
+        {
+          "id": 7,
+          "title": "کابل اپتیکال",
+          "link": "https://www.dastresi.com/products/166",
+          "children": []
+        },
+        {
+          "id": 8,
+          "title": "کابل و فیش OTG",
+          "link": "https://www.dastresi.com/products/196",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "dropdown-37",
+      "title": "لوازم تولید محتوا",
+      "link": "https://www.dastresi.com/products/186",
+      "hoverItems": [
+        {
+          "id": 1,
+          "title": "میکروفون",
+          "link": "https://www.dastresi.com/products/microphone"
+        },
+        {
+          "id": 2,
+          "title": "رینگ لایت و پایه",
+          "link": "https://www.dastresi.com/products/188"
+        }
+      ],
+      "tree": [
+        {
+          "id": 1,
+          "title": "میکروفون",
+          "link": "https://www.dastresi.com/products/microphone",
+          "children": []
+        },
+        {
+          "id": 2,
+          "title": "رینگ لایت و پایه",
+          "link": "https://www.dastresi.com/products/188",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "dropdown-50",
+      "title": "لوازم شبکه",
+      "link": "https://www.dastresi.com/products/141",
+      "hoverItems": [
+        {
+          "id": 1,
+          "title": "مودم - روتر",
+          "link": "https://www.dastresi.com/products/150"
+        },
+        {
+          "id": 2,
+          "title": "هاب شبکه",
+          "link": "https://www.dastresi.com/products/151"
+        },
+        {
+          "id": 3,
+          "title": "مودم همراه",
+          "link": "https://www.dastresi.com/products/152"
+        },
+        {
+          "id": 4,
+          "title": "لوازم جانبی",
+          "link": "https://www.dastresi.com/products/168"
+        }
+      ],
+      "tree": [
+        {
+          "id": 1,
+          "title": "مودم - روتر",
+          "link": "https://www.dastresi.com/products/150",
+          "children": []
+        },
+        {
+          "id": 2,
+          "title": "هاب شبکه",
+          "link": "https://www.dastresi.com/products/151",
+          "children": []
+        },
+        {
+          "id": 3,
+          "title": "مودم همراه",
+          "link": "https://www.dastresi.com/products/152",
+          "children": []
+        },
+        {
+          "id": 4,
+          "title": "لوازم جانبی",
+          "link": "https://www.dastresi.com/products/168",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "dropdown-62",
+      "title": "کنسول بازی و لوازم جانبی",
+      "link": "https://www.dastresi.com/products/177",
+      "hoverItems": [
+        {
+          "id": 1,
+          "title": "دسته بازی",
+          "link": "https://www.dastresi.com/products/128"
+        },
+        {
+          "id": 2,
+          "title": "هندزفری و هدست",
+          "link": "https://www.dastresi.com/products/127"
+        },
+        {
+          "id": 3,
+          "title": "موس و کیبورد",
+          "link": "https://www.dastresi.com/products/171"
+        },
+        {
+          "id": 4,
+          "title": "کیف",
+          "link": "https://www.dastresi.com/products/178"
+        },
+        {
+          "id": 5,
+          "title": "کنسول",
+          "link": "https://www.dastresi.com/products/181"
+        },
+        {
+          "id": 6,
+          "title": "شارژر دسته بازی",
+          "link": "https://www.dastresi.com/products/182"
+        }
+      ],
+      "tree": [
+        {
+          "id": 1,
+          "title": "دسته بازی",
+          "link": "https://www.dastresi.com/products/128",
+          "children": []
+        },
+        {
+          "id": 2,
+          "title": "هندزفری و هدست",
+          "link": "https://www.dastresi.com/products/127",
+          "children": []
+        },
+        {
+          "id": 3,
+          "title": "موس و کیبورد",
+          "link": "https://www.dastresi.com/products/171",
+          "children": []
+        },
+        {
+          "id": 4,
+          "title": "کیف",
+          "link": "https://www.dastresi.com/products/178",
+          "children": []
+        },
+        {
+          "id": 5,
+          "title": "کنسول",
+          "link": "https://www.dastresi.com/products/181",
+          "children": []
+        },
+        {
+          "id": 6,
+          "title": "شارژر دسته بازی",
+          "link": "https://www.dastresi.com/products/182",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "dropdown-68",
+      "title": "لوازم خانگی و شخصی",
+      "link": "https://www.dastresi.com/products/160",
+      "hoverItems": [
+        {
+          "id": 1,
+          "title": "انواع گجت های جذاب",
+          "link": "https://www.dastresi.com/products/159"
+        },
+        {
+          "id": 2,
+          "title": "ماشین اصلاح سر و صورت",
+          "link": "https://www.dastresi.com/products/213"
+        },
+        {
+          "id": 3,
+          "title": "باتری و شارژر",
+          "link": "https://www.dastresi.com/products/battery"
+        },
+        {
+          "id": 4,
+          "title": "باتری آلکالاین",
+          "link": "https://www.dastresi.com/products/143"
+        },
+        {
+          "id": 5,
+          "title": "باتری ساده",
+          "link": "https://www.dastresi.com/products/144"
+        },
+        {
+          "id": 6,
+          "title": "باتری شارژی",
+          "link": "https://www.dastresi.com/products/147"
+        },
+        {
+          "id": 7,
+          "title": "شارژر باتری",
+          "link": "https://www.dastresi.com/products/148"
+        },
+        {
+          "id": 8,
+          "title": "باتری سکه ای",
+          "link": "https://www.dastresi.com/products/149"
+        },
+        {
+          "id": 9,
+          "title": "اندروید باکس و گیرنده دیجیتال",
+          "link": "https://www.dastresi.com/products/161"
+        },
+        {
+          "id": 10,
+          "title": "ابزار",
+          "link": "https://www.dastresi.com/products/208"
+        },
+        {
+          "id": 11,
+          "title": "مچ بند و ساعت هوشمند",
+          "link": "https://www.dastresi.com/products/smartwatch"
+        },
+        {
+          "id": 12,
+          "title": "محصولات کمبو",
+          "link": "https://www.dastresi.com/products/175"
+        },
+        {
+          "id": 13,
+          "title": "اف ام پلیر",
+          "link": "https://www.dastresi.com/products/195"
+        },
+        {
+          "id": 14,
+          "title": "رابط برق و USB",
+          "link": "https://www.dastresi.com/products/194"
+        }
+      ],
+      "tree": [
+        {
+          "id": 1,
+          "title": "انواع گجت های جذاب",
+          "link": "https://www.dastresi.com/products/159",
+          "children": []
+        },
+        {
+          "id": 2,
+          "title": "ماشین اصلاح سر و صورت",
+          "link": "https://www.dastresi.com/products/213",
+          "children": []
+        },
+        {
+          "id": 3,
+          "title": "باتری و شارژر",
+          "link": "https://www.dastresi.com/products/battery",
+          "children": [
+            {
+              "title": "باتری آلکالاین",
+              "link": "https://www.dastresi.com/products/143"
+            },
+            {
+              "title": "باتری ساده",
+              "link": "https://www.dastresi.com/products/144"
+            },
+            {
+              "title": "باتری شارژی",
+              "link": "https://www.dastresi.com/products/147"
+            },
+            {
+              "title": "شارژر باتری",
+              "link": "https://www.dastresi.com/products/148"
+            },
+            {
+              "title": "باتری سکه ای",
+              "link": "https://www.dastresi.com/products/149"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "اندروید باکس و گیرنده دیجیتال",
+          "link": "https://www.dastresi.com/products/161",
+          "children": [
+            {
+              "title": "ابزار",
+              "link": "https://www.dastresi.com/products/208"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "مچ بند و ساعت هوشمند",
+          "link": "https://www.dastresi.com/products/smartwatch",
+          "children": []
+        },
+        {
+          "id": 6,
+          "title": "محصولات کمبو",
+          "link": "https://www.dastresi.com/products/175",
+          "children": []
+        },
+        {
+          "id": 7,
+          "title": "اف ام پلیر",
+          "link": "https://www.dastresi.com/products/195",
+          "children": []
+        },
+        {
+          "id": 8,
+          "title": "رابط برق و USB",
+          "link": "https://www.dastresi.com/products/194",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "brand-dropdown",
+      "title": "برند‌ها",
+      "link": "https://www.dastresi.com/products",
+      "hoverItems": [
+        {
+          "id": 1,
+          "title": "هایلو Haylou",
+          "link": "https://www.dastresi.com/brands/haylo"
+        },
+        {
+          "id": 2,
+          "title": "دای هارد Die Hard",
+          "link": "https://www.dastresi.com/brands/24"
+        },
+        {
+          "id": 3,
+          "title": "اسکال کندی SkullCandy",
+          "link": "https://www.dastresi.com/brands/91"
+        },
+        {
+          "id": 4,
+          "title": "اپل Apple",
+          "link": "https://www.dastresi.com/brands/49"
+        },
+        {
+          "id": 5,
+          "title": "کملیون Camelion",
+          "link": "https://www.dastresi.com/brands/21"
+        },
+        {
+          "id": 6,
+          "title": "کلومن پلاس Koluman Plus",
+          "link": "https://www.dastresi.com/brands/55"
+        },
+        {
+          "id": 7,
+          "title": "یسیدو yesido",
+          "link": "https://www.dastresi.com/brands/yesido"
+        },
+        {
+          "id": 8,
+          "title": "نزتک Naztech",
+          "link": "https://www.dastresi.com/brands/34"
+        },
+        {
+          "id": 9,
+          "title": "پرووان ProOne",
+          "link": "https://www.dastresi.com/brands/16"
+        },
+        {
+          "id": 10,
+          "title": "ال دی نیو Ldnio",
+          "link": "https://www.dastresi.com/brands/Ldnio"
+        },
+        {
+          "id": 11,
+          "title": "دوراسل Duracell",
+          "link": "https://www.dastresi.com/brands/66"
+        },
+        {
+          "id": 12,
+          "title": "سومو Somo",
+          "link": "https://www.dastresi.com/brands/somo"
+        },
+        {
+          "id": 13,
+          "title": "بیسوس Baseus",
+          "link": "https://www.dastresi.com/brands/Baseus"
+        },
+        {
+          "id": 14,
+          "title": "بویا Boya",
+          "link": "https://www.dastresi.com/brands/Boya"
+        },
+        {
+          "id": 15,
+          "title": "مک دودو Mcdodo",
+          "link": "https://www.dastresi.com/brands/mcdodo"
+        },
+        {
+          "id": 16,
+          "title": "پاورولوژی Powerology",
+          "link": "https://www.dastresi.com/brands/powerology"
+        },
+        {
+          "id": 17,
+          "title": "راوپاور Ravpower",
+          "link": "https://www.dastresi.com/brands/ravpower"
+        },
+        {
+          "id": 18,
+          "title": "آکی Aukey",
+          "link": "https://www.dastresi.com/brands/Aukey"
+        },
+        {
+          "id": 19,
+          "title": "انکر Anker",
+          "link": "https://www.dastresi.com/brands/anker"
+        },
+        {
+          "id": 20,
+          "title": "آینوبن inoben",
+          "link": "https://www.dastresi.com/products?brands[0]=5"
+        },
+        {
+          "id": 21,
+          "title": "مومکس Momax",
+          "link": "https://www.dastresi.com/products?brands[0]=45"
+        },
+        {
+          "id": 22,
+          "title": "وسترن دیجیتال Western Digital",
+          "link": "https://www.dastresi.com/products?brands[0]=2"
+        },
+        {
+          "id": 23,
+          "title": "شیائومی Xiaomi",
+          "link": "https://www.dastresi.com/products?brands[0]=70"
+        },
+        {
+          "id": 24,
+          "title": "پاناسونیک Panasonic",
+          "link": "https://www.dastresi.com/products?brands[0]=65"
+        },
+        {
+          "id": 25,
+          "title": "نیکین Neekin",
+          "link": "https://www.dastresi.com/products?brands[0]=76"
+        },
+        {
+          "id": 26,
+          "title": "پایونیر pioneer",
+          "link": "https://www.dastresi.com/products?brands[0]=77"
+        },
+        {
+          "id": 27,
+          "title": "جی پی GP",
+          "link": "https://www.dastresi.com/products?brands[0]=64"
+        },
+        {
+          "id": 28,
+          "title": "ای فورتک A4tech",
+          "link": "https://www.dastresi.com/products?brands[0]=63"
+        },
+        {
+          "id": 29,
+          "title": "وان مور 1more",
+          "link": "https://www.dastresi.com/products?brands[0]=78"
+        },
+        {
+          "id": 30,
+          "title": "مکسل Maxell",
+          "link": "https://www.dastresi.com/products?brands[0]=67"
+        },
+        {
+          "id": 31,
+          "title": "مشاهده دیگر برندها",
+          "link": "https://www.dastresi.com/products"
+        }
+      ],
+      "tree": [
+        {
+          "id": 1,
+          "title": "هایلو Haylou",
+          "link": "https://www.dastresi.com/brands/haylo",
+          "children": []
+        },
+        {
+          "id": 2,
+          "title": "دای هارد Die Hard",
+          "link": "https://www.dastresi.com/brands/24",
+          "children": []
+        },
+        {
+          "id": 3,
+          "title": "اسکال کندی SkullCandy",
+          "link": "https://www.dastresi.com/brands/91",
+          "children": []
+        },
+        {
+          "id": 4,
+          "title": "اپل Apple",
+          "link": "https://www.dastresi.com/brands/49",
+          "children": []
+        },
+        {
+          "id": 5,
+          "title": "کملیون Camelion",
+          "link": "https://www.dastresi.com/brands/21",
+          "children": []
+        },
+        {
+          "id": 6,
+          "title": "کلومن پلاس Koluman Plus",
+          "link": "https://www.dastresi.com/brands/55",
+          "children": []
+        },
+        {
+          "id": 7,
+          "title": "یسیدو yesido",
+          "link": "https://www.dastresi.com/brands/yesido",
+          "children": []
+        },
+        {
+          "id": 8,
+          "title": "نزتک Naztech",
+          "link": "https://www.dastresi.com/brands/34",
+          "children": []
+        },
+        {
+          "id": 9,
+          "title": "پرووان ProOne",
+          "link": "https://www.dastresi.com/brands/16",
+          "children": []
+        },
+        {
+          "id": 10,
+          "title": "ال دی نیو Ldnio",
+          "link": "https://www.dastresi.com/brands/Ldnio",
+          "children": []
+        },
+        {
+          "id": 11,
+          "title": "دوراسل Duracell",
+          "link": "https://www.dastresi.com/brands/66",
+          "children": []
+        },
+        {
+          "id": 12,
+          "title": "سومو Somo",
+          "link": "https://www.dastresi.com/brands/somo",
+          "children": []
+        },
+        {
+          "id": 13,
+          "title": "بیسوس Baseus",
+          "link": "https://www.dastresi.com/brands/Baseus",
+          "children": []
+        },
+        {
+          "id": 14,
+          "title": "بویا Boya",
+          "link": "https://www.dastresi.com/brands/Boya",
+          "children": []
+        },
+        {
+          "id": 15,
+          "title": "مک دودو Mcdodo",
+          "link": "https://www.dastresi.com/brands/mcdodo",
+          "children": []
+        },
+        {
+          "id": 16,
+          "title": "پاورولوژی Powerology",
+          "link": "https://www.dastresi.com/brands/powerology",
+          "children": []
+        },
+        {
+          "id": 17,
+          "title": "راوپاور Ravpower",
+          "link": "https://www.dastresi.com/brands/ravpower",
+          "children": []
+        },
+        {
+          "id": 18,
+          "title": "آکی Aukey",
+          "link": "https://www.dastresi.com/brands/Aukey",
+          "children": []
+        },
+        {
+          "id": 19,
+          "title": "انکر Anker",
+          "link": "https://www.dastresi.com/brands/anker",
+          "children": []
+        },
+        {
+          "id": 20,
+          "title": "آینوبن inoben",
+          "link": "https://www.dastresi.com/products?brands[0]=5",
+          "children": []
+        },
+        {
+          "id": 21,
+          "title": "مومکس Momax",
+          "link": "https://www.dastresi.com/products?brands[0]=45",
+          "children": []
+        },
+        {
+          "id": 22,
+          "title": "وسترن دیجیتال Western Digital",
+          "link": "https://www.dastresi.com/products?brands[0]=2",
+          "children": []
+        },
+        {
+          "id": 23,
+          "title": "شیائومی Xiaomi",
+          "link": "https://www.dastresi.com/products?brands[0]=70",
+          "children": []
+        },
+        {
+          "id": 24,
+          "title": "پاناسونیک Panasonic",
+          "link": "https://www.dastresi.com/products?brands[0]=65",
+          "children": []
+        },
+        {
+          "id": 25,
+          "title": "نیکین Neekin",
+          "link": "https://www.dastresi.com/products?brands[0]=76",
+          "children": []
+        },
+        {
+          "id": 26,
+          "title": "پایونیر pioneer",
+          "link": "https://www.dastresi.com/products?brands[0]=77",
+          "children": []
+        },
+        {
+          "id": 27,
+          "title": "جی پی GP",
+          "link": "https://www.dastresi.com/products?brands[0]=64",
+          "children": []
+        },
+        {
+          "id": 28,
+          "title": "ای فورتک A4tech",
+          "link": "https://www.dastresi.com/products?brands[0]=63",
+          "children": []
+        },
+        {
+          "id": 29,
+          "title": "وان مور 1more",
+          "link": "https://www.dastresi.com/products?brands[0]=78",
+          "children": []
+        },
+        {
+          "id": 30,
+          "title": "مکسل Maxell",
+          "link": "https://www.dastresi.com/products?brands[0]=67",
+          "children": []
+        },
+        {
+          "id": 31,
+          "title": "مشاهده دیگر برندها",
+          "link": "https://www.dastresi.com/products",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "desktopHeader": {
+    "topNavigation": [
+      {
+        "id": 1,
+        "title": "باشگاه مشتریان",
+        "link": "https://www.dastresi.com/customer-club"
+      },
+      {
+        "id": 2,
+        "title": "بلاگ",
+        "link": "https://www.dastresi.com/blog"
+      },
+      {
+        "id": 3,
+        "title": "ارتباط ما",
+        "link": "https://www.dastresi.com/contact"
+      },
+      {
+        "id": 4,
+        "title": "درباره ما",
+        "link": "https://www.dastresi.com/about"
+      },
+      {
+        "id": 5,
+        "title": "0",
+        "link": "https://www.dastresi.com/basket"
+      },
+      {
+        "id": 6,
+        "title": "ورود و ثبت‌نام",
+        "link": "https://www.dastresi.com/login"
+      },
+      {
+        "id": 7,
+        "title": "خانه",
+        "link": "https://www.dastresi.com/"
+      }
+    ],
+    "categoryNavigation": [
+      {
+        "id": 1,
+        "title": "لوازم جانبی موبایل و کامپیوتر",
+        "link": "https://www.dastresi.com/products/mobile-accessories"
+      },
+      {
+        "id": 2,
+        "title": "کابل شارژ",
+        "link": "https://www.dastresi.com/products/Charging-Cable"
+      },
+      {
+        "id": 3,
+        "title": "کابل شارژ میکرو یو اس بی",
+        "link": "https://www.dastresi.com/products/Microusb-Cable"
+      },
+      {
+        "id": 4,
+        "title": "کابل شارژ تایپ سی",
+        "link": "https://www.dastresi.com/products/TypeC-Cable"
+      },
+      {
+        "id": 5,
+        "title": "کابل شارژ لایتنینگ",
+        "link": "https://www.dastresi.com/products/Lightning-cable"
+      },
+      {
+        "id": 6,
+        "title": "کابل شارژ دو سر تایپ سی",
+        "link": "https://www.dastresi.com/products/typec-to-typec"
+      },
+      {
+        "id": 7,
+        "title": "کابل شارژ تایپ سی به لایتنینگ",
+        "link": "https://www.dastresi.com/products/typec-to-lightning"
+      },
+      {
+        "id": 8,
+        "title": "کابل شارژ سه کاره",
+        "link": "https://www.dastresi.com/products/3-functions"
+      },
+      {
+        "id": 9,
+        "title": "کابل شارژ سامسونگ",
+        "link": "https://www.dastresi.com/products/Samsung-cable"
+      },
+      {
+        "id": 10,
+        "title": "کابل شارژ آیفون",
+        "link": "https://www.dastresi.com/products/iphone-cable"
+      },
+      {
+        "id": 11,
+        "title": "هولدر و نگهدارنده",
+        "link": "https://www.dastresi.com/products/holders"
+      },
+      {
+        "id": 12,
+        "title": "تجهیزات ذخیره سازی",
+        "link": "https://www.dastresi.com/products/153"
+      },
+      {
+        "id": 13,
+        "title": "فلش مموری",
+        "link": "https://www.dastresi.com/products/flash-memory"
+      },
+      {
+        "id": 14,
+        "title": "کارت حافظه",
+        "link": "https://www.dastresi.com/products/memory-card"
+      },
+      {
+        "id": 15,
+        "title": "هارد اکسترنال",
+        "link": "https://www.dastresi.com/products/156"
+      },
+      {
+        "id": 16,
+        "title": "هندزفری و هدست، میکروفون",
+        "link": "https://www.dastresi.com/products/headset"
+      },
+      {
+        "id": 17,
+        "title": "میکروفون",
+        "link": "https://www.dastresi.com/products/167"
+      },
+      {
+        "id": 18,
+        "title": "هندزفری سیم دار",
+        "link": "https://www.dastresi.com/products/Wired-handsfree"
+      },
+      {
+        "id": 19,
+        "title": "هدست سیم دار",
+        "link": "https://www.dastresi.com/products/wired-headset"
+      },
+      {
+        "id": 20,
+        "title": "هدفون بلوتوث",
+        "link": "https://www.dastresi.com/products/Bluetooth-Headphones"
+      },
+      {
+        "id": 21,
+        "title": "هندزفری بلوتوثی",
+        "link": "https://www.dastresi.com/products/bluetooth-handsfree"
+      },
+      {
+        "id": 22,
+        "title": "هندزفری بلوتوث دورگردنی",
+        "link": "https://www.dastresi.com/products/neckband-headset"
+      },
+      {
+        "id": 23,
+        "title": "هندزفری بلوتوث تک گوش",
+        "link": "https://www.dastresi.com/products/125"
+      },
+      {
+        "id": 24,
+        "title": "پاوربانک",
+        "link": "https://www.dastresi.com/products/PowerBank"
+      },
+      {
+        "id": 25,
+        "title": "جامپ استارتر",
+        "link": "https://www.dastresi.com/products/jump-starter"
+      },
+      {
+        "id": 26,
+        "title": "اسپیکر",
+        "link": "https://www.dastresi.com/products/Speaker"
+      },
+      {
+        "id": 27,
+        "title": "ماوس و کیبورد و پدموس",
+        "link": "https://www.dastresi.com/products/172"
+      },
+      {
+        "id": 28,
+        "title": "آداپتور و شارژر",
+        "link": "https://www.dastresi.com/products/Charger"
+      },
+      {
+        "id": 29,
+        "title": "شارژر دیواری",
+        "link": "https://www.dastresi.com/products/wall-charger"
+      },
+      {
+        "id": 30,
+        "title": "شارژر وایرلس",
+        "link": "https://www.dastresi.com/products/wireless-charger"
+      },
+      {
+        "id": 31,
+        "title": "شارژر رومیزی",
+        "link": "https://www.dastresi.com/products/desktop-charger"
+      },
+      {
+        "id": 32,
+        "title": "شارژر فندکی",
+        "link": "https://www.dastresi.com/products/car-charger"
+      },
+      {
+        "id": 33,
+        "title": "شارژر سامسونگ",
+        "link": "https://www.dastresi.com/products/samsung-charger"
+      },
+      {
+        "id": 34,
+        "title": "شارژر آیفون",
+        "link": "https://www.dastresi.com/products/iphone-charger"
+      },
+      {
+        "id": 35,
+        "title": "دسته بازی و خنک کننده موبایل",
+        "link": "https://www.dastresi.com/products/189"
+      },
+      {
+        "id": 36,
+        "title": "انواع تبدیل برق",
+        "link": "https://www.dastresi.com/products/190"
+      },
+      {
+        "id": 37,
+        "title": "کابل و دانگل انتقال تصویر",
+        "link": "https://www.dastresi.com/products/191"
+      },
+      {
+        "id": 38,
+        "title": "هاب تایپ سی و یو اس بی",
+        "link": "https://www.dastresi.com/products/192"
+      },
+      {
+        "id": 39,
+        "title": "فن خنک کننده کامپیوتر",
+        "link": "https://www.dastresi.com/products/193"
+      },
+      {
+        "id": 40,
+        "title": "قاب و گلس",
+        "link": "https://www.dastresi.com/products/198"
+      },
+      {
+        "id": 41,
+        "title": "کابل - مبدل - رابط",
+        "link": "https://www.dastresi.com/products/132"
+      },
+      {
+        "id": 42,
+        "title": "کابل HDMI",
+        "link": "https://www.dastresi.com/products/hdmi-cable"
+      },
+      {
+        "id": 43,
+        "title": "کابل پرینتر",
+        "link": "https://www.dastresi.com/products/135"
+      },
+      {
+        "id": 44,
+        "title": "کابل هارد اکسترنال",
+        "link": "https://www.dastresi.com/products/137"
+      },
+      {
+        "id": 45,
+        "title": "انواع رابط و تبدیل",
+        "link": "https://www.dastresi.com/products/139"
+      },
+      {
+        "id": 46,
+        "title": "کابل AUX",
+        "link": "https://www.dastresi.com/products/158"
+      },
+      {
+        "id": 47,
+        "title": "کابل 2 به 1 صدا",
+        "link": "https://www.dastresi.com/products/163"
+      },
+      {
+        "id": 48,
+        "title": "کابل اپتیکال",
+        "link": "https://www.dastresi.com/products/166"
+      },
+      {
+        "id": 49,
+        "title": "کابل و فیش OTG",
+        "link": "https://www.dastresi.com/products/196"
+      },
+      {
+        "id": 50,
+        "title": "لوازم تولید محتوا",
+        "link": "https://www.dastresi.com/products/186"
+      },
+      {
+        "id": 51,
+        "title": "میکروفون",
+        "link": "https://www.dastresi.com/products/microphone"
+      },
+      {
+        "id": 52,
+        "title": "رینگ لایت و پایه",
+        "link": "https://www.dastresi.com/products/188"
+      },
+      {
+        "id": 53,
+        "title": "لوازم شبکه",
+        "link": "https://www.dastresi.com/products/141"
+      },
+      {
+        "id": 54,
+        "title": "مودم - روتر",
+        "link": "https://www.dastresi.com/products/150"
+      },
+      {
+        "id": 55,
+        "title": "هاب شبکه",
+        "link": "https://www.dastresi.com/products/151"
+      },
+      {
+        "id": 56,
+        "title": "مودم همراه",
+        "link": "https://www.dastresi.com/products/152"
+      },
+      {
+        "id": 57,
+        "title": "لوازم جانبی",
+        "link": "https://www.dastresi.com/products/168"
+      },
+      {
+        "id": 58,
+        "title": "کنسول بازی و لوازم جانبی",
+        "link": "https://www.dastresi.com/products/177"
+      },
+      {
+        "id": 59,
+        "title": "دسته بازی",
+        "link": "https://www.dastresi.com/products/128"
+      },
+      {
+        "id": 60,
+        "title": "هندزفری و هدست",
+        "link": "https://www.dastresi.com/products/127"
+      },
+      {
+        "id": 61,
+        "title": "موس و کیبورد",
+        "link": "https://www.dastresi.com/products/171"
+      },
+      {
+        "id": 62,
+        "title": "کیف",
+        "link": "https://www.dastresi.com/products/178"
+      },
+      {
+        "id": 63,
+        "title": "کنسول",
+        "link": "https://www.dastresi.com/products/181"
+      },
+      {
+        "id": 64,
+        "title": "شارژر دسته بازی",
+        "link": "https://www.dastresi.com/products/182"
+      },
+      {
+        "id": 65,
+        "title": "لوازم خانگی و شخصی",
+        "link": "https://www.dastresi.com/products/160"
+      },
+      {
+        "id": 66,
+        "title": "انواع گجت های جذاب",
+        "link": "https://www.dastresi.com/products/159"
+      },
+      {
+        "id": 67,
+        "title": "ماشین اصلاح سر و صورت",
+        "link": "https://www.dastresi.com/products/213"
+      },
+      {
+        "id": 68,
+        "title": "باتری و شارژر",
+        "link": "https://www.dastresi.com/products/battery"
+      },
+      {
+        "id": 69,
+        "title": "باتری آلکالاین",
+        "link": "https://www.dastresi.com/products/143"
+      },
+      {
+        "id": 70,
+        "title": "باتری ساده",
+        "link": "https://www.dastresi.com/products/144"
+      },
+      {
+        "id": 71,
+        "title": "باتری شارژی",
+        "link": "https://www.dastresi.com/products/147"
+      },
+      {
+        "id": 72,
+        "title": "شارژر باتری",
+        "link": "https://www.dastresi.com/products/148"
+      },
+      {
+        "id": 73,
+        "title": "باتری سکه ای",
+        "link": "https://www.dastresi.com/products/149"
+      },
+      {
+        "id": 74,
+        "title": "اندروید باکس و گیرنده دیجیتال",
+        "link": "https://www.dastresi.com/products/161"
+      },
+      {
+        "id": 75,
+        "title": "ابزار",
+        "link": "https://www.dastresi.com/products/208"
+      },
+      {
+        "id": 76,
+        "title": "مچ بند و ساعت هوشمند",
+        "link": "https://www.dastresi.com/products/smartwatch"
+      },
+      {
+        "id": 77,
+        "title": "محصولات کمبو",
+        "link": "https://www.dastresi.com/products/175"
+      },
+      {
+        "id": 78,
+        "title": "اف ام پلیر",
+        "link": "https://www.dastresi.com/products/195"
+      },
+      {
+        "id": 79,
+        "title": "رابط برق و USB",
+        "link": "https://www.dastresi.com/products/194"
+      },
+      {
+        "id": 80,
+        "title": "مشاهده دیگر برندها",
+        "link": "https://www.dastresi.com/products"
+      },
+      {
+        "id": 81,
+        "title": "هایلو Haylou",
+        "link": "https://www.dastresi.com/brands/haylo"
+      },
+      {
+        "id": 82,
+        "title": "دای هارد Die Hard",
+        "link": "https://www.dastresi.com/brands/24"
+      },
+      {
+        "id": 83,
+        "title": "اسکال کندی SkullCandy",
+        "link": "https://www.dastresi.com/brands/91"
+      },
+      {
+        "id": 84,
+        "title": "اپل Apple",
+        "link": "https://www.dastresi.com/brands/49"
+      },
+      {
+        "id": 85,
+        "title": "کملیون Camelion",
+        "link": "https://www.dastresi.com/brands/21"
+      },
+      {
+        "id": 86,
+        "title": "کلومن پلاس Koluman Plus",
+        "link": "https://www.dastresi.com/brands/55"
+      },
+      {
+        "id": 87,
+        "title": "یسیدو yesido",
+        "link": "https://www.dastresi.com/brands/yesido"
+      },
+      {
+        "id": 88,
+        "title": "نزتک Naztech",
+        "link": "https://www.dastresi.com/brands/34"
+      },
+      {
+        "id": 89,
+        "title": "پرووان ProOne",
+        "link": "https://www.dastresi.com/brands/16"
+      },
+      {
+        "id": 90,
+        "title": "ال دی نیو Ldnio",
+        "link": "https://www.dastresi.com/brands/Ldnio"
+      },
+      {
+        "id": 91,
+        "title": "دوراسل Duracell",
+        "link": "https://www.dastresi.com/brands/66"
+      },
+      {
+        "id": 92,
+        "title": "سومو Somo",
+        "link": "https://www.dastresi.com/brands/somo"
+      },
+      {
+        "id": 93,
+        "title": "بیسوس Baseus",
+        "link": "https://www.dastresi.com/brands/Baseus"
+      },
+      {
+        "id": 94,
+        "title": "بویا Boya",
+        "link": "https://www.dastresi.com/brands/Boya"
+      },
+      {
+        "id": 95,
+        "title": "مک دودو Mcdodo",
+        "link": "https://www.dastresi.com/brands/mcdodo"
+      },
+      {
+        "id": 96,
+        "title": "پاورولوژی Powerology",
+        "link": "https://www.dastresi.com/brands/powerology"
+      },
+      {
+        "id": 97,
+        "title": "راوپاور Ravpower",
+        "link": "https://www.dastresi.com/brands/ravpower"
+      },
+      {
+        "id": 98,
+        "title": "آکی Aukey",
+        "link": "https://www.dastresi.com/brands/Aukey"
+      },
+      {
+        "id": 99,
+        "title": "انکر Anker",
+        "link": "https://www.dastresi.com/brands/anker"
+      },
+      {
+        "id": 100,
+        "title": "آینوبن inoben",
+        "link": "https://www.dastresi.com/products?brands[0]=5"
+      },
+      {
+        "id": 101,
+        "title": "مومکس Momax",
+        "link": "https://www.dastresi.com/products?brands[0]=45"
+      },
+      {
+        "id": 102,
+        "title": "وسترن دیجیتال Western Digital",
+        "link": "https://www.dastresi.com/products?brands[0]=2"
+      },
+      {
+        "id": 103,
+        "title": "شیائومی Xiaomi",
+        "link": "https://www.dastresi.com/products?brands[0]=70"
+      },
+      {
+        "id": 104,
+        "title": "پاناسونیک Panasonic",
+        "link": "https://www.dastresi.com/products?brands[0]=65"
+      },
+      {
+        "id": 105,
+        "title": "نیکین Neekin",
+        "link": "https://www.dastresi.com/products?brands[0]=76"
+      },
+      {
+        "id": 106,
+        "title": "پایونیر pioneer",
+        "link": "https://www.dastresi.com/products?brands[0]=77"
+      },
+      {
+        "id": 107,
+        "title": "جی پی GP",
+        "link": "https://www.dastresi.com/products?brands[0]=64"
+      },
+      {
+        "id": 108,
+        "title": "ای فورتک A4tech",
+        "link": "https://www.dastresi.com/products?brands[0]=63"
+      },
+      {
+        "id": 109,
+        "title": "وان مور 1more",
+        "link": "https://www.dastresi.com/products?brands[0]=78"
+      },
+      {
+        "id": 110,
+        "title": "مکسل Maxell",
+        "link": "https://www.dastresi.com/products?brands[0]=67"
+      }
+    ],
+    "hoverMenus": [
+      {
+        "id": "dropdown-3",
+        "title": "لوازم جانبی موبایل و کامپیوتر",
+        "link": "https://www.dastresi.com/products/mobile-accessories",
+        "hoverItems": [
+          {
+            "id": 1,
+            "title": "کابل شارژ",
+            "link": "https://www.dastresi.com/products/Charging-Cable"
+          },
+          {
+            "id": 2,
+            "title": "کابل شارژ میکرو یو اس بی",
+            "link": "https://www.dastresi.com/products/Microusb-Cable"
+          },
+          {
+            "id": 3,
+            "title": "کابل شارژ تایپ سی",
+            "link": "https://www.dastresi.com/products/TypeC-Cable"
+          },
+          {
+            "id": 4,
+            "title": "کابل شارژ لایتنینگ",
+            "link": "https://www.dastresi.com/products/Lightning-cable"
+          },
+          {
+            "id": 5,
+            "title": "کابل شارژ دو سر تایپ سی",
+            "link": "https://www.dastresi.com/products/typec-to-typec"
+          },
+          {
+            "id": 6,
+            "title": "کابل شارژ تایپ سی به لایتنینگ",
+            "link": "https://www.dastresi.com/products/typec-to-lightning"
+          },
+          {
+            "id": 7,
+            "title": "کابل شارژ سه کاره",
+            "link": "https://www.dastresi.com/products/3-functions"
+          },
+          {
+            "id": 8,
+            "title": "کابل شارژ سامسونگ",
+            "link": "https://www.dastresi.com/products/Samsung-cable"
+          },
+          {
+            "id": 9,
+            "title": "کابل شارژ آیفون",
+            "link": "https://www.dastresi.com/products/iphone-cable"
+          },
+          {
+            "id": 10,
+            "title": "هولدر و نگهدارنده",
+            "link": "https://www.dastresi.com/products/holders"
+          },
+          {
+            "id": 11,
+            "title": "تجهیزات ذخیره سازی",
+            "link": "https://www.dastresi.com/products/153"
+          },
+          {
+            "id": 12,
+            "title": "فلش مموری",
+            "link": "https://www.dastresi.com/products/flash-memory"
+          },
+          {
+            "id": 13,
+            "title": "کارت حافظه",
+            "link": "https://www.dastresi.com/products/memory-card"
+          },
+          {
+            "id": 14,
+            "title": "هارد اکسترنال",
+            "link": "https://www.dastresi.com/products/156"
+          },
+          {
+            "id": 15,
+            "title": "هندزفری و هدست، میکروفون",
+            "link": "https://www.dastresi.com/products/headset"
+          },
+          {
+            "id": 16,
+            "title": "میکروفون",
+            "link": "https://www.dastresi.com/products/167"
+          },
+          {
+            "id": 17,
+            "title": "هندزفری سیم دار",
+            "link": "https://www.dastresi.com/products/Wired-handsfree"
+          },
+          {
+            "id": 18,
+            "title": "هدست سیم دار",
+            "link": "https://www.dastresi.com/products/wired-headset"
+          },
+          {
+            "id": 19,
+            "title": "هدفون بلوتوث",
+            "link": "https://www.dastresi.com/products/Bluetooth-Headphones"
+          },
+          {
+            "id": 20,
+            "title": "هندزفری بلوتوثی",
+            "link": "https://www.dastresi.com/products/bluetooth-handsfree"
+          },
+          {
+            "id": 21,
+            "title": "هندزفری بلوتوث دورگردنی",
+            "link": "https://www.dastresi.com/products/neckband-headset"
+          },
+          {
+            "id": 22,
+            "title": "هندزفری بلوتوث تک گوش",
+            "link": "https://www.dastresi.com/products/125"
+          },
+          {
+            "id": 23,
+            "title": "پاوربانک",
+            "link": "https://www.dastresi.com/products/PowerBank"
+          },
+          {
+            "id": 24,
+            "title": "جامپ استارتر",
+            "link": "https://www.dastresi.com/products/jump-starter"
+          },
+          {
+            "id": 25,
+            "title": "اسپیکر",
+            "link": "https://www.dastresi.com/products/Speaker"
+          },
+          {
+            "id": 26,
+            "title": "ماوس و کیبورد و پدموس",
+            "link": "https://www.dastresi.com/products/172"
+          },
+          {
+            "id": 27,
+            "title": "آداپتور و شارژر",
+            "link": "https://www.dastresi.com/products/Charger"
+          },
+          {
+            "id": 28,
+            "title": "شارژر دیواری",
+            "link": "https://www.dastresi.com/products/wall-charger"
+          },
+          {
+            "id": 29,
+            "title": "شارژر وایرلس",
+            "link": "https://www.dastresi.com/products/wireless-charger"
+          },
+          {
+            "id": 30,
+            "title": "شارژر رومیزی",
+            "link": "https://www.dastresi.com/products/desktop-charger"
+          },
+          {
+            "id": 31,
+            "title": "شارژر فندکی",
+            "link": "https://www.dastresi.com/products/car-charger"
+          },
+          {
+            "id": 32,
+            "title": "شارژر سامسونگ",
+            "link": "https://www.dastresi.com/products/samsung-charger"
+          },
+          {
+            "id": 33,
+            "title": "شارژر آیفون",
+            "link": "https://www.dastresi.com/products/iphone-charger"
+          },
+          {
+            "id": 34,
+            "title": "دسته بازی و خنک کننده موبایل",
+            "link": "https://www.dastresi.com/products/189"
+          },
+          {
+            "id": 35,
+            "title": "انواع تبدیل برق",
+            "link": "https://www.dastresi.com/products/190"
+          },
+          {
+            "id": 36,
+            "title": "کابل و دانگل انتقال تصویر",
+            "link": "https://www.dastresi.com/products/191"
+          },
+          {
+            "id": 37,
+            "title": "هاب تایپ سی و یو اس بی",
+            "link": "https://www.dastresi.com/products/192"
+          },
+          {
+            "id": 38,
+            "title": "فن خنک کننده کامپیوتر",
+            "link": "https://www.dastresi.com/products/193"
+          },
+          {
+            "id": 39,
+            "title": "قاب و گلس",
+            "link": "https://www.dastresi.com/products/198"
+          }
+        ],
+        "tree": [
+          {
+            "id": 1,
+            "title": "کابل شارژ",
+            "link": "https://www.dastresi.com/products/Charging-Cable",
+            "children": [
+              {
+                "title": "کابل شارژ میکرو یو اس بی",
+                "link": "https://www.dastresi.com/products/Microusb-Cable"
+              },
+              {
+                "title": "کابل شارژ تایپ سی",
+                "link": "https://www.dastresi.com/products/TypeC-Cable"
+              },
+              {
+                "title": "کابل شارژ لایتنینگ",
+                "link": "https://www.dastresi.com/products/Lightning-cable"
+              },
+              {
+                "title": "کابل شارژ دو سر تایپ سی",
+                "link": "https://www.dastresi.com/products/typec-to-typec"
+              },
+              {
+                "title": "کابل شارژ تایپ سی به لایتنینگ",
+                "link": "https://www.dastresi.com/products/typec-to-lightning"
+              },
+              {
+                "title": "کابل شارژ سه کاره",
+                "link": "https://www.dastresi.com/products/3-functions"
+              },
+              {
+                "title": "کابل شارژ سامسونگ",
+                "link": "https://www.dastresi.com/products/Samsung-cable"
+              },
+              {
+                "title": "کابل شارژ آیفون",
+                "link": "https://www.dastresi.com/products/iphone-cable"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "هولدر و نگهدارنده",
+            "link": "https://www.dastresi.com/products/holders",
+            "children": []
+          },
+          {
+            "id": 3,
+            "title": "تجهیزات ذخیره سازی",
+            "link": "https://www.dastresi.com/products/153",
+            "children": [
+              {
+                "title": "فلش مموری",
+                "link": "https://www.dastresi.com/products/flash-memory"
+              },
+              {
+                "title": "کارت حافظه",
+                "link": "https://www.dastresi.com/products/memory-card"
+              },
+              {
+                "title": "هارد اکسترنال",
+                "link": "https://www.dastresi.com/products/156"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "title": "هندزفری و هدست، میکروفون",
+            "link": "https://www.dastresi.com/products/headset",
+            "children": [
+              {
+                "title": "میکروفون",
+                "link": "https://www.dastresi.com/products/167"
+              },
+              {
+                "title": "هندزفری سیم دار",
+                "link": "https://www.dastresi.com/products/Wired-handsfree"
+              },
+              {
+                "title": "هدست سیم دار",
+                "link": "https://www.dastresi.com/products/wired-headset"
+              },
+              {
+                "title": "هدفون بلوتوث",
+                "link": "https://www.dastresi.com/products/Bluetooth-Headphones"
+              },
+              {
+                "title": "هندزفری بلوتوثی",
+                "link": "https://www.dastresi.com/products/bluetooth-handsfree"
+              },
+              {
+                "title": "هندزفری بلوتوث دورگردنی",
+                "link": "https://www.dastresi.com/products/neckband-headset"
+              },
+              {
+                "title": "هندزفری بلوتوث تک گوش",
+                "link": "https://www.dastresi.com/products/125"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "title": "پاوربانک",
+            "link": "https://www.dastresi.com/products/PowerBank",
+            "children": [
+              {
+                "title": "جامپ استارتر",
+                "link": "https://www.dastresi.com/products/jump-starter"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "title": "اسپیکر",
+            "link": "https://www.dastresi.com/products/Speaker",
+            "children": []
+          },
+          {
+            "id": 7,
+            "title": "ماوس و کیبورد و پدموس",
+            "link": "https://www.dastresi.com/products/172",
+            "children": []
+          },
+          {
+            "id": 8,
+            "title": "آداپتور و شارژر",
+            "link": "https://www.dastresi.com/products/Charger",
+            "children": [
+              {
+                "title": "شارژر دیواری",
+                "link": "https://www.dastresi.com/products/wall-charger"
+              },
+              {
+                "title": "شارژر وایرلس",
+                "link": "https://www.dastresi.com/products/wireless-charger"
+              },
+              {
+                "title": "شارژر رومیزی",
+                "link": "https://www.dastresi.com/products/desktop-charger"
+              },
+              {
+                "title": "شارژر فندکی",
+                "link": "https://www.dastresi.com/products/car-charger"
+              },
+              {
+                "title": "شارژر سامسونگ",
+                "link": "https://www.dastresi.com/products/samsung-charger"
+              },
+              {
+                "title": "شارژر آیفون",
+                "link": "https://www.dastresi.com/products/iphone-charger"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "title": "دسته بازی و خنک کننده موبایل",
+            "link": "https://www.dastresi.com/products/189",
+            "children": []
+          },
+          {
+            "id": 10,
+            "title": "انواع تبدیل برق",
+            "link": "https://www.dastresi.com/products/190",
+            "children": []
+          },
+          {
+            "id": 11,
+            "title": "کابل و دانگل انتقال تصویر",
+            "link": "https://www.dastresi.com/products/191",
+            "children": []
+          },
+          {
+            "id": 12,
+            "title": "هاب تایپ سی و یو اس بی",
+            "link": "https://www.dastresi.com/products/192",
+            "children": []
+          },
+          {
+            "id": 13,
+            "title": "فن خنک کننده کامپیوتر",
+            "link": "https://www.dastresi.com/products/193",
+            "children": []
+          },
+          {
+            "id": 14,
+            "title": "قاب و گلس",
+            "link": "https://www.dastresi.com/products/198",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "dropdown-33",
+        "title": "کابل - مبدل - رابط",
+        "link": "https://www.dastresi.com/products/132",
+        "hoverItems": [
+          {
+            "id": 1,
+            "title": "کابل HDMI",
+            "link": "https://www.dastresi.com/products/hdmi-cable"
+          },
+          {
+            "id": 2,
+            "title": "کابل پرینتر",
+            "link": "https://www.dastresi.com/products/135"
+          },
+          {
+            "id": 3,
+            "title": "کابل هارد اکسترنال",
+            "link": "https://www.dastresi.com/products/137"
+          },
+          {
+            "id": 4,
+            "title": "انواع رابط و تبدیل",
+            "link": "https://www.dastresi.com/products/139"
+          },
+          {
+            "id": 5,
+            "title": "کابل AUX",
+            "link": "https://www.dastresi.com/products/158"
+          },
+          {
+            "id": 6,
+            "title": "کابل 2 به 1 صدا",
+            "link": "https://www.dastresi.com/products/163"
+          },
+          {
+            "id": 7,
+            "title": "کابل اپتیکال",
+            "link": "https://www.dastresi.com/products/166"
+          },
+          {
+            "id": 8,
+            "title": "کابل و فیش OTG",
+            "link": "https://www.dastresi.com/products/196"
+          }
+        ],
+        "tree": [
+          {
+            "id": 1,
+            "title": "کابل HDMI",
+            "link": "https://www.dastresi.com/products/hdmi-cable",
+            "children": []
+          },
+          {
+            "id": 2,
+            "title": "کابل پرینتر",
+            "link": "https://www.dastresi.com/products/135",
+            "children": []
+          },
+          {
+            "id": 3,
+            "title": "کابل هارد اکسترنال",
+            "link": "https://www.dastresi.com/products/137",
+            "children": []
+          },
+          {
+            "id": 4,
+            "title": "انواع رابط و تبدیل",
+            "link": "https://www.dastresi.com/products/139",
+            "children": []
+          },
+          {
+            "id": 5,
+            "title": "کابل AUX",
+            "link": "https://www.dastresi.com/products/158",
+            "children": []
+          },
+          {
+            "id": 6,
+            "title": "کابل 2 به 1 صدا",
+            "link": "https://www.dastresi.com/products/163",
+            "children": []
+          },
+          {
+            "id": 7,
+            "title": "کابل اپتیکال",
+            "link": "https://www.dastresi.com/products/166",
+            "children": []
+          },
+          {
+            "id": 8,
+            "title": "کابل و فیش OTG",
+            "link": "https://www.dastresi.com/products/196",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "dropdown-37",
+        "title": "لوازم تولید محتوا",
+        "link": "https://www.dastresi.com/products/186",
+        "hoverItems": [
+          {
+            "id": 1,
+            "title": "میکروفون",
+            "link": "https://www.dastresi.com/products/microphone"
+          },
+          {
+            "id": 2,
+            "title": "رینگ لایت و پایه",
+            "link": "https://www.dastresi.com/products/188"
+          }
+        ],
+        "tree": [
+          {
+            "id": 1,
+            "title": "میکروفون",
+            "link": "https://www.dastresi.com/products/microphone",
+            "children": []
+          },
+          {
+            "id": 2,
+            "title": "رینگ لایت و پایه",
+            "link": "https://www.dastresi.com/products/188",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "dropdown-50",
+        "title": "لوازم شبکه",
+        "link": "https://www.dastresi.com/products/141",
+        "hoverItems": [
+          {
+            "id": 1,
+            "title": "مودم - روتر",
+            "link": "https://www.dastresi.com/products/150"
+          },
+          {
+            "id": 2,
+            "title": "هاب شبکه",
+            "link": "https://www.dastresi.com/products/151"
+          },
+          {
+            "id": 3,
+            "title": "مودم همراه",
+            "link": "https://www.dastresi.com/products/152"
+          },
+          {
+            "id": 4,
+            "title": "لوازم جانبی",
+            "link": "https://www.dastresi.com/products/168"
+          }
+        ],
+        "tree": [
+          {
+            "id": 1,
+            "title": "مودم - روتر",
+            "link": "https://www.dastresi.com/products/150",
+            "children": []
+          },
+          {
+            "id": 2,
+            "title": "هاب شبکه",
+            "link": "https://www.dastresi.com/products/151",
+            "children": []
+          },
+          {
+            "id": 3,
+            "title": "مودم همراه",
+            "link": "https://www.dastresi.com/products/152",
+            "children": []
+          },
+          {
+            "id": 4,
+            "title": "لوازم جانبی",
+            "link": "https://www.dastresi.com/products/168",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "dropdown-62",
+        "title": "کنسول بازی و لوازم جانبی",
+        "link": "https://www.dastresi.com/products/177",
+        "hoverItems": [
+          {
+            "id": 1,
+            "title": "دسته بازی",
+            "link": "https://www.dastresi.com/products/128"
+          },
+          {
+            "id": 2,
+            "title": "هندزفری و هدست",
+            "link": "https://www.dastresi.com/products/127"
+          },
+          {
+            "id": 3,
+            "title": "موس و کیبورد",
+            "link": "https://www.dastresi.com/products/171"
+          },
+          {
+            "id": 4,
+            "title": "کیف",
+            "link": "https://www.dastresi.com/products/178"
+          },
+          {
+            "id": 5,
+            "title": "کنسول",
+            "link": "https://www.dastresi.com/products/181"
+          },
+          {
+            "id": 6,
+            "title": "شارژر دسته بازی",
+            "link": "https://www.dastresi.com/products/182"
+          }
+        ],
+        "tree": [
+          {
+            "id": 1,
+            "title": "دسته بازی",
+            "link": "https://www.dastresi.com/products/128",
+            "children": []
+          },
+          {
+            "id": 2,
+            "title": "هندزفری و هدست",
+            "link": "https://www.dastresi.com/products/127",
+            "children": []
+          },
+          {
+            "id": 3,
+            "title": "موس و کیبورد",
+            "link": "https://www.dastresi.com/products/171",
+            "children": []
+          },
+          {
+            "id": 4,
+            "title": "کیف",
+            "link": "https://www.dastresi.com/products/178",
+            "children": []
+          },
+          {
+            "id": 5,
+            "title": "کنسول",
+            "link": "https://www.dastresi.com/products/181",
+            "children": []
+          },
+          {
+            "id": 6,
+            "title": "شارژر دسته بازی",
+            "link": "https://www.dastresi.com/products/182",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "dropdown-68",
+        "title": "لوازم خانگی و شخصی",
+        "link": "https://www.dastresi.com/products/160",
+        "hoverItems": [
+          {
+            "id": 1,
+            "title": "انواع گجت های جذاب",
+            "link": "https://www.dastresi.com/products/159"
+          },
+          {
+            "id": 2,
+            "title": "ماشین اصلاح سر و صورت",
+            "link": "https://www.dastresi.com/products/213"
+          },
+          {
+            "id": 3,
+            "title": "باتری و شارژر",
+            "link": "https://www.dastresi.com/products/battery"
+          },
+          {
+            "id": 4,
+            "title": "باتری آلکالاین",
+            "link": "https://www.dastresi.com/products/143"
+          },
+          {
+            "id": 5,
+            "title": "باتری ساده",
+            "link": "https://www.dastresi.com/products/144"
+          },
+          {
+            "id": 6,
+            "title": "باتری شارژی",
+            "link": "https://www.dastresi.com/products/147"
+          },
+          {
+            "id": 7,
+            "title": "شارژر باتری",
+            "link": "https://www.dastresi.com/products/148"
+          },
+          {
+            "id": 8,
+            "title": "باتری سکه ای",
+            "link": "https://www.dastresi.com/products/149"
+          },
+          {
+            "id": 9,
+            "title": "اندروید باکس و گیرنده دیجیتال",
+            "link": "https://www.dastresi.com/products/161"
+          },
+          {
+            "id": 10,
+            "title": "ابزار",
+            "link": "https://www.dastresi.com/products/208"
+          },
+          {
+            "id": 11,
+            "title": "مچ بند و ساعت هوشمند",
+            "link": "https://www.dastresi.com/products/smartwatch"
+          },
+          {
+            "id": 12,
+            "title": "محصولات کمبو",
+            "link": "https://www.dastresi.com/products/175"
+          },
+          {
+            "id": 13,
+            "title": "اف ام پلیر",
+            "link": "https://www.dastresi.com/products/195"
+          },
+          {
+            "id": 14,
+            "title": "رابط برق و USB",
+            "link": "https://www.dastresi.com/products/194"
+          }
+        ],
+        "tree": [
+          {
+            "id": 1,
+            "title": "انواع گجت های جذاب",
+            "link": "https://www.dastresi.com/products/159",
+            "children": []
+          },
+          {
+            "id": 2,
+            "title": "ماشین اصلاح سر و صورت",
+            "link": "https://www.dastresi.com/products/213",
+            "children": []
+          },
+          {
+            "id": 3,
+            "title": "باتری و شارژر",
+            "link": "https://www.dastresi.com/products/battery",
+            "children": [
+              {
+                "title": "باتری آلکالاین",
+                "link": "https://www.dastresi.com/products/143"
+              },
+              {
+                "title": "باتری ساده",
+                "link": "https://www.dastresi.com/products/144"
+              },
+              {
+                "title": "باتری شارژی",
+                "link": "https://www.dastresi.com/products/147"
+              },
+              {
+                "title": "شارژر باتری",
+                "link": "https://www.dastresi.com/products/148"
+              },
+              {
+                "title": "باتری سکه ای",
+                "link": "https://www.dastresi.com/products/149"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "title": "اندروید باکس و گیرنده دیجیتال",
+            "link": "https://www.dastresi.com/products/161",
+            "children": [
+              {
+                "title": "ابزار",
+                "link": "https://www.dastresi.com/products/208"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "title": "مچ بند و ساعت هوشمند",
+            "link": "https://www.dastresi.com/products/smartwatch",
+            "children": []
+          },
+          {
+            "id": 6,
+            "title": "محصولات کمبو",
+            "link": "https://www.dastresi.com/products/175",
+            "children": []
+          },
+          {
+            "id": 7,
+            "title": "اف ام پلیر",
+            "link": "https://www.dastresi.com/products/195",
+            "children": []
+          },
+          {
+            "id": 8,
+            "title": "رابط برق و USB",
+            "link": "https://www.dastresi.com/products/194",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "brand-dropdown",
+        "title": "برند‌ها",
+        "link": "https://www.dastresi.com/products",
+        "hoverItems": [
+          {
+            "id": 1,
+            "title": "هایلو Haylou",
+            "link": "https://www.dastresi.com/brands/haylo"
+          },
+          {
+            "id": 2,
+            "title": "دای هارد Die Hard",
+            "link": "https://www.dastresi.com/brands/24"
+          },
+          {
+            "id": 3,
+            "title": "اسکال کندی SkullCandy",
+            "link": "https://www.dastresi.com/brands/91"
+          },
+          {
+            "id": 4,
+            "title": "اپل Apple",
+            "link": "https://www.dastresi.com/brands/49"
+          },
+          {
+            "id": 5,
+            "title": "کملیون Camelion",
+            "link": "https://www.dastresi.com/brands/21"
+          },
+          {
+            "id": 6,
+            "title": "کلومن پلاس Koluman Plus",
+            "link": "https://www.dastresi.com/brands/55"
+          },
+          {
+            "id": 7,
+            "title": "یسیدو yesido",
+            "link": "https://www.dastresi.com/brands/yesido"
+          },
+          {
+            "id": 8,
+            "title": "نزتک Naztech",
+            "link": "https://www.dastresi.com/brands/34"
+          },
+          {
+            "id": 9,
+            "title": "پرووان ProOne",
+            "link": "https://www.dastresi.com/brands/16"
+          },
+          {
+            "id": 10,
+            "title": "ال دی نیو Ldnio",
+            "link": "https://www.dastresi.com/brands/Ldnio"
+          },
+          {
+            "id": 11,
+            "title": "دوراسل Duracell",
+            "link": "https://www.dastresi.com/brands/66"
+          },
+          {
+            "id": 12,
+            "title": "سومو Somo",
+            "link": "https://www.dastresi.com/brands/somo"
+          },
+          {
+            "id": 13,
+            "title": "بیسوس Baseus",
+            "link": "https://www.dastresi.com/brands/Baseus"
+          },
+          {
+            "id": 14,
+            "title": "بویا Boya",
+            "link": "https://www.dastresi.com/brands/Boya"
+          },
+          {
+            "id": 15,
+            "title": "مک دودو Mcdodo",
+            "link": "https://www.dastresi.com/brands/mcdodo"
+          },
+          {
+            "id": 16,
+            "title": "پاورولوژی Powerology",
+            "link": "https://www.dastresi.com/brands/powerology"
+          },
+          {
+            "id": 17,
+            "title": "راوپاور Ravpower",
+            "link": "https://www.dastresi.com/brands/ravpower"
+          },
+          {
+            "id": 18,
+            "title": "آکی Aukey",
+            "link": "https://www.dastresi.com/brands/Aukey"
+          },
+          {
+            "id": 19,
+            "title": "انکر Anker",
+            "link": "https://www.dastresi.com/brands/anker"
+          },
+          {
+            "id": 20,
+            "title": "آینوبن inoben",
+            "link": "https://www.dastresi.com/products?brands[0]=5"
+          },
+          {
+            "id": 21,
+            "title": "مومکس Momax",
+            "link": "https://www.dastresi.com/products?brands[0]=45"
+          },
+          {
+            "id": 22,
+            "title": "وسترن دیجیتال Western Digital",
+            "link": "https://www.dastresi.com/products?brands[0]=2"
+          },
+          {
+            "id": 23,
+            "title": "شیائومی Xiaomi",
+            "link": "https://www.dastresi.com/products?brands[0]=70"
+          },
+          {
+            "id": 24,
+            "title": "پاناسونیک Panasonic",
+            "link": "https://www.dastresi.com/products?brands[0]=65"
+          },
+          {
+            "id": 25,
+            "title": "نیکین Neekin",
+            "link": "https://www.dastresi.com/products?brands[0]=76"
+          },
+          {
+            "id": 26,
+            "title": "پایونیر pioneer",
+            "link": "https://www.dastresi.com/products?brands[0]=77"
+          },
+          {
+            "id": 27,
+            "title": "جی پی GP",
+            "link": "https://www.dastresi.com/products?brands[0]=64"
+          },
+          {
+            "id": 28,
+            "title": "ای فورتک A4tech",
+            "link": "https://www.dastresi.com/products?brands[0]=63"
+          },
+          {
+            "id": 29,
+            "title": "وان مور 1more",
+            "link": "https://www.dastresi.com/products?brands[0]=78"
+          },
+          {
+            "id": 30,
+            "title": "مکسل Maxell",
+            "link": "https://www.dastresi.com/products?brands[0]=67"
+          },
+          {
+            "id": 31,
+            "title": "مشاهده دیگر برندها",
+            "link": "https://www.dastresi.com/products"
+          }
+        ],
+        "tree": [
+          {
+            "id": 1,
+            "title": "هایلو Haylou",
+            "link": "https://www.dastresi.com/brands/haylo",
+            "children": []
+          },
+          {
+            "id": 2,
+            "title": "دای هارد Die Hard",
+            "link": "https://www.dastresi.com/brands/24",
+            "children": []
+          },
+          {
+            "id": 3,
+            "title": "اسکال کندی SkullCandy",
+            "link": "https://www.dastresi.com/brands/91",
+            "children": []
+          },
+          {
+            "id": 4,
+            "title": "اپل Apple",
+            "link": "https://www.dastresi.com/brands/49",
+            "children": []
+          },
+          {
+            "id": 5,
+            "title": "کملیون Camelion",
+            "link": "https://www.dastresi.com/brands/21",
+            "children": []
+          },
+          {
+            "id": 6,
+            "title": "کلومن پلاس Koluman Plus",
+            "link": "https://www.dastresi.com/brands/55",
+            "children": []
+          },
+          {
+            "id": 7,
+            "title": "یسیدو yesido",
+            "link": "https://www.dastresi.com/brands/yesido",
+            "children": []
+          },
+          {
+            "id": 8,
+            "title": "نزتک Naztech",
+            "link": "https://www.dastresi.com/brands/34",
+            "children": []
+          },
+          {
+            "id": 9,
+            "title": "پرووان ProOne",
+            "link": "https://www.dastresi.com/brands/16",
+            "children": []
+          },
+          {
+            "id": 10,
+            "title": "ال دی نیو Ldnio",
+            "link": "https://www.dastresi.com/brands/Ldnio",
+            "children": []
+          },
+          {
+            "id": 11,
+            "title": "دوراسل Duracell",
+            "link": "https://www.dastresi.com/brands/66",
+            "children": []
+          },
+          {
+            "id": 12,
+            "title": "سومو Somo",
+            "link": "https://www.dastresi.com/brands/somo",
+            "children": []
+          },
+          {
+            "id": 13,
+            "title": "بیسوس Baseus",
+            "link": "https://www.dastresi.com/brands/Baseus",
+            "children": []
+          },
+          {
+            "id": 14,
+            "title": "بویا Boya",
+            "link": "https://www.dastresi.com/brands/Boya",
+            "children": []
+          },
+          {
+            "id": 15,
+            "title": "مک دودو Mcdodo",
+            "link": "https://www.dastresi.com/brands/mcdodo",
+            "children": []
+          },
+          {
+            "id": 16,
+            "title": "پاورولوژی Powerology",
+            "link": "https://www.dastresi.com/brands/powerology",
+            "children": []
+          },
+          {
+            "id": 17,
+            "title": "راوپاور Ravpower",
+            "link": "https://www.dastresi.com/brands/ravpower",
+            "children": []
+          },
+          {
+            "id": 18,
+            "title": "آکی Aukey",
+            "link": "https://www.dastresi.com/brands/Aukey",
+            "children": []
+          },
+          {
+            "id": 19,
+            "title": "انکر Anker",
+            "link": "https://www.dastresi.com/brands/anker",
+            "children": []
+          },
+          {
+            "id": 20,
+            "title": "آینوبن inoben",
+            "link": "https://www.dastresi.com/products?brands[0]=5",
+            "children": []
+          },
+          {
+            "id": 21,
+            "title": "مومکس Momax",
+            "link": "https://www.dastresi.com/products?brands[0]=45",
+            "children": []
+          },
+          {
+            "id": 22,
+            "title": "وسترن دیجیتال Western Digital",
+            "link": "https://www.dastresi.com/products?brands[0]=2",
+            "children": []
+          },
+          {
+            "id": 23,
+            "title": "شیائومی Xiaomi",
+            "link": "https://www.dastresi.com/products?brands[0]=70",
+            "children": []
+          },
+          {
+            "id": 24,
+            "title": "پاناسونیک Panasonic",
+            "link": "https://www.dastresi.com/products?brands[0]=65",
+            "children": []
+          },
+          {
+            "id": 25,
+            "title": "نیکین Neekin",
+            "link": "https://www.dastresi.com/products?brands[0]=76",
+            "children": []
+          },
+          {
+            "id": 26,
+            "title": "پایونیر pioneer",
+            "link": "https://www.dastresi.com/products?brands[0]=77",
+            "children": []
+          },
+          {
+            "id": 27,
+            "title": "جی پی GP",
+            "link": "https://www.dastresi.com/products?brands[0]=64",
+            "children": []
+          },
+          {
+            "id": 28,
+            "title": "ای فورتک A4tech",
+            "link": "https://www.dastresi.com/products?brands[0]=63",
+            "children": []
+          },
+          {
+            "id": 29,
+            "title": "وان مور 1more",
+            "link": "https://www.dastresi.com/products?brands[0]=78",
+            "children": []
+          },
+          {
+            "id": 30,
+            "title": "مکسل Maxell",
+            "link": "https://www.dastresi.com/products?brands[0]=67",
+            "children": []
+          },
+          {
+            "id": 31,
+            "title": "مشاهده دیگر برندها",
+            "link": "https://www.dastresi.com/products",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "mobileHeader": {
+    "topNavigation": [
+      {
+        "id": 1,
+        "title": "0",
+        "link": "https://www.dastresi.com/basket"
+      },
+      {
+        "id": 2,
+        "title": "خانه",
+        "link": "https://www.dastresi.com/"
+      },
+      {
+        "id": 3,
+        "title": "درباره ما",
+        "link": "https://www.dastresi.com/about"
+      },
+      {
+        "id": 4,
+        "title": "تماس با ما",
+        "link": "https://www.dastresi.com/contact"
+      },
+      {
+        "id": 5,
+        "title": "بلاگ",
+        "link": "https://www.dastresi.com/blog"
+      },
+      {
+        "id": 6,
+        "title": "ورود به باشگاه مشتریان",
+        "link": "https://www.dastresi.com/customer-club"
+      }
+    ],
+    "profileNavigation": [
+      {
+        "id": 1,
+        "title": "پروفایل",
+        "link": "https://www.dastresi.com/profile"
+      },
+      {
+        "id": 2,
+        "title": "اعلامیه‌ها",
+        "link": "https://www.dastresi.com/announcements"
+      },
+      {
+        "id": 3,
+        "title": "سفارش‌ها",
+        "link": "https://www.dastresi.com/myorders"
+      },
+      {
+        "id": 4,
+        "title": "باشگاه مشتریان",
+        "link": "https://www.dastresi.com/profile/customer-club"
+      },
+      {
+        "id": 5,
+        "title": "محصولات درخواستی",
+        "link": "https://www.dastresi.com/mywishlist"
+      },
+      {
+        "id": 6,
+        "title": "آدرس‌ها",
+        "link": "https://www.dastresi.com/myaddresses"
+      },
+      {
+        "id": 7,
+        "title": "ویرایش مشخصات",
+        "link": "https://www.dastresi.com/myinfo"
+      },
+      {
+        "id": 8,
+        "title": "تغییر رمز عبور",
+        "link": "https://www.dastresi.com/mypassword"
+      }
+    ],
+    "categoryNavigation": [
+      {
+        "id": 1,
+        "title": "همه موارد این دسته",
+        "link": "https://www.dastresi.com/products/mobile-accessories"
+      },
+      {
+        "id": 2,
+        "title": "همه موارد این دسته",
+        "link": "https://www.dastresi.com/products/Charging-Cable"
+      },
+      {
+        "id": 3,
+        "title": "کابل شارژ میکرو یو اس بی",
+        "link": "https://www.dastresi.com/products/Microusb-Cable"
+      },
+      {
+        "id": 4,
+        "title": "کابل شارژ تایپ سی",
+        "link": "https://www.dastresi.com/products/TypeC-Cable"
+      },
+      {
+        "id": 5,
+        "title": "کابل شارژ لایتنینگ",
+        "link": "https://www.dastresi.com/products/Lightning-cable"
+      },
+      {
+        "id": 6,
+        "title": "کابل شارژ دو سر تایپ سی",
+        "link": "https://www.dastresi.com/products/typec-to-typec"
+      },
+      {
+        "id": 7,
+        "title": "کابل شارژ تایپ سی به لایتنینگ",
+        "link": "https://www.dastresi.com/products/typec-to-lightning"
+      },
+      {
+        "id": 8,
+        "title": "کابل شارژ سه کاره",
+        "link": "https://www.dastresi.com/products/3-functions"
+      },
+      {
+        "id": 9,
+        "title": "کابل شارژ سامسونگ",
+        "link": "https://www.dastresi.com/products/Samsung-cable"
+      },
+      {
+        "id": 10,
+        "title": "کابل شارژ آیفون",
+        "link": "https://www.dastresi.com/products/iphone-cable"
+      },
+      {
+        "id": 11,
+        "title": "هولدر و نگهدارنده",
+        "link": "https://www.dastresi.com/products/holders"
+      },
+      {
+        "id": 12,
+        "title": "همه موارد این دسته",
+        "link": "https://www.dastresi.com/products/153"
+      },
+      {
+        "id": 13,
+        "title": "فلش مموری",
+        "link": "https://www.dastresi.com/products/flash-memory"
+      },
+      {
+        "id": 14,
+        "title": "کارت حافظه",
+        "link": "https://www.dastresi.com/products/memory-card"
+      },
+      {
+        "id": 15,
+        "title": "هارد اکسترنال",
+        "link": "https://www.dastresi.com/products/156"
+      },
+      {
+        "id": 16,
+        "title": "همه موارد این دسته",
+        "link": "https://www.dastresi.com/products/headset"
+      },
+      {
+        "id": 17,
+        "title": "میکروفون",
+        "link": "https://www.dastresi.com/products/167"
+      },
+      {
+        "id": 18,
+        "title": "هندزفری سیم دار",
+        "link": "https://www.dastresi.com/products/Wired-handsfree"
+      },
+      {
+        "id": 19,
+        "title": "هدست سیم دار",
+        "link": "https://www.dastresi.com/products/wired-headset"
+      },
+      {
+        "id": 20,
+        "title": "هدفون بلوتوث",
+        "link": "https://www.dastresi.com/products/Bluetooth-Headphones"
+      },
+      {
+        "id": 21,
+        "title": "هندزفری بلوتوثی",
+        "link": "https://www.dastresi.com/products/bluetooth-handsfree"
+      },
+      {
+        "id": 22,
+        "title": "هندزفری بلوتوث دورگردنی",
+        "link": "https://www.dastresi.com/products/neckband-headset"
+      },
+      {
+        "id": 23,
+        "title": "هندزفری بلوتوث تک گوش",
+        "link": "https://www.dastresi.com/products/125"
+      },
+      {
+        "id": 24,
+        "title": "همه موارد این دسته",
+        "link": "https://www.dastresi.com/products/PowerBank"
+      },
+      {
+        "id": 25,
+        "title": "جامپ استارتر",
+        "link": "https://www.dastresi.com/products/jump-starter"
+      },
+      {
+        "id": 26,
+        "title": "اسپیکر",
+        "link": "https://www.dastresi.com/products/Speaker"
+      },
+      {
+        "id": 27,
+        "title": "ماوس و کیبورد و پدموس",
+        "link": "https://www.dastresi.com/products/172"
+      },
+      {
+        "id": 28,
+        "title": "همه موارد این دسته",
+        "link": "https://www.dastresi.com/products/Charger"
+      },
+      {
+        "id": 29,
+        "title": "شارژر دیواری",
+        "link": "https://www.dastresi.com/products/wall-charger"
+      },
+      {
+        "id": 30,
+        "title": "شارژر وایرلس",
+        "link": "https://www.dastresi.com/products/wireless-charger"
+      },
+      {
+        "id": 31,
+        "title": "شارژر رومیزی",
+        "link": "https://www.dastresi.com/products/desktop-charger"
+      },
+      {
+        "id": 32,
+        "title": "شارژر فندکی",
+        "link": "https://www.dastresi.com/products/car-charger"
+      },
+      {
+        "id": 33,
+        "title": "شارژر سامسونگ",
+        "link": "https://www.dastresi.com/products/samsung-charger"
+      },
+      {
+        "id": 34,
+        "title": "شارژر آیفون",
+        "link": "https://www.dastresi.com/products/iphone-charger"
+      },
+      {
+        "id": 35,
+        "title": "دسته بازی و خنک کننده موبایل",
+        "link": "https://www.dastresi.com/products/189"
+      },
+      {
+        "id": 36,
+        "title": "انواع تبدیل برق",
+        "link": "https://www.dastresi.com/products/190"
+      },
+      {
+        "id": 37,
+        "title": "کابل و دانگل انتقال تصویر",
+        "link": "https://www.dastresi.com/products/191"
+      },
+      {
+        "id": 38,
+        "title": "هاب تایپ سی و یو اس بی",
+        "link": "https://www.dastresi.com/products/192"
+      },
+      {
+        "id": 39,
+        "title": "فن خنک کننده کامپیوتر",
+        "link": "https://www.dastresi.com/products/193"
+      },
+      {
+        "id": 40,
+        "title": "قاب و گلس",
+        "link": "https://www.dastresi.com/products/198"
+      },
+      {
+        "id": 41,
+        "title": "همه موارد این دسته",
+        "link": "https://www.dastresi.com/products/132"
+      },
+      {
+        "id": 42,
+        "title": "کابل HDMI",
+        "link": "https://www.dastresi.com/products/hdmi-cable"
+      },
+      {
+        "id": 43,
+        "title": "کابل پرینتر",
+        "link": "https://www.dastresi.com/products/135"
+      },
+      {
+        "id": 44,
+        "title": "کابل هارد اکسترنال",
+        "link": "https://www.dastresi.com/products/137"
+      },
+      {
+        "id": 45,
+        "title": "انواع رابط و تبدیل",
+        "link": "https://www.dastresi.com/products/139"
+      },
+      {
+        "id": 46,
+        "title": "کابل AUX",
+        "link": "https://www.dastresi.com/products/158"
+      },
+      {
+        "id": 47,
+        "title": "کابل 2 به 1 صدا",
+        "link": "https://www.dastresi.com/products/163"
+      },
+      {
+        "id": 48,
+        "title": "کابل اپتیکال",
+        "link": "https://www.dastresi.com/products/166"
+      },
+      {
+        "id": 49,
+        "title": "کابل و فیش OTG",
+        "link": "https://www.dastresi.com/products/196"
+      },
+      {
+        "id": 50,
+        "title": "همه موارد این دسته",
+        "link": "https://www.dastresi.com/products/186"
+      },
+      {
+        "id": 51,
+        "title": "میکروفون",
+        "link": "https://www.dastresi.com/products/microphone"
+      },
+      {
+        "id": 52,
+        "title": "رینگ لایت و پایه",
+        "link": "https://www.dastresi.com/products/188"
+      },
+      {
+        "id": 53,
+        "title": "همه موارد این دسته",
+        "link": "https://www.dastresi.com/products/141"
+      },
+      {
+        "id": 54,
+        "title": "مودم - روتر",
+        "link": "https://www.dastresi.com/products/150"
+      },
+      {
+        "id": 55,
+        "title": "هاب شبکه",
+        "link": "https://www.dastresi.com/products/151"
+      },
+      {
+        "id": 56,
+        "title": "مودم همراه",
+        "link": "https://www.dastresi.com/products/152"
+      },
+      {
+        "id": 57,
+        "title": "لوازم جانبی",
+        "link": "https://www.dastresi.com/products/168"
+      },
+      {
+        "id": 58,
+        "title": "همه موارد این دسته",
+        "link": "https://www.dastresi.com/products/177"
+      },
+      {
+        "id": 59,
+        "title": "دسته بازی",
+        "link": "https://www.dastresi.com/products/128"
+      },
+      {
+        "id": 60,
+        "title": "هندزفری و هدست",
+        "link": "https://www.dastresi.com/products/127"
+      },
+      {
+        "id": 61,
+        "title": "موس و کیبورد",
+        "link": "https://www.dastresi.com/products/171"
+      },
+      {
+        "id": 62,
+        "title": "کیف",
+        "link": "https://www.dastresi.com/products/178"
+      },
+      {
+        "id": 63,
+        "title": "کنسول",
+        "link": "https://www.dastresi.com/products/181"
+      },
+      {
+        "id": 64,
+        "title": "شارژر دسته بازی",
+        "link": "https://www.dastresi.com/products/182"
+      },
+      {
+        "id": 65,
+        "title": "همه موارد این دسته",
+        "link": "https://www.dastresi.com/products/160"
+      },
+      {
+        "id": 66,
+        "title": "انواع گجت های جذاب",
+        "link": "https://www.dastresi.com/products/159"
+      },
+      {
+        "id": 67,
+        "title": "ماشین اصلاح سر و صورت",
+        "link": "https://www.dastresi.com/products/213"
+      },
+      {
+        "id": 68,
+        "title": "همه موارد این دسته",
+        "link": "https://www.dastresi.com/products/battery"
+      },
+      {
+        "id": 69,
+        "title": "باتری آلکالاین",
+        "link": "https://www.dastresi.com/products/143"
+      },
+      {
+        "id": 70,
+        "title": "باتری ساده",
+        "link": "https://www.dastresi.com/products/144"
+      },
+      {
+        "id": 71,
+        "title": "باتری شارژی",
+        "link": "https://www.dastresi.com/products/147"
+      },
+      {
+        "id": 72,
+        "title": "شارژر باتری",
+        "link": "https://www.dastresi.com/products/148"
+      },
+      {
+        "id": 73,
+        "title": "باتری سکه ای",
+        "link": "https://www.dastresi.com/products/149"
+      },
+      {
+        "id": 74,
+        "title": "همه موارد این دسته",
+        "link": "https://www.dastresi.com/products/161"
+      },
+      {
+        "id": 75,
+        "title": "ابزار",
+        "link": "https://www.dastresi.com/products/208"
+      },
+      {
+        "id": 76,
+        "title": "مچ بند و ساعت هوشمند",
+        "link": "https://www.dastresi.com/products/smartwatch"
+      },
+      {
+        "id": 77,
+        "title": "محصولات کمبو",
+        "link": "https://www.dastresi.com/products/175"
+      },
+      {
+        "id": 78,
+        "title": "اف ام پلیر",
+        "link": "https://www.dastresi.com/products/195"
+      },
+      {
+        "id": 79,
+        "title": "رابط برق و USB",
+        "link": "https://www.dastresi.com/products/194"
+      },
+      {
+        "id": 80,
+        "title": "هایلو | Haylou",
+        "link": "https://www.dastresi.com/brands/79"
+      },
+      {
+        "id": 81,
+        "title": "دای هارد | Die Hard",
+        "link": "https://www.dastresi.com/brands/24"
+      },
+      {
+        "id": 82,
+        "title": "اسکال کندی | SkullCandy",
+        "link": "https://www.dastresi.com/brands/91"
+      },
+      {
+        "id": 83,
+        "title": "اپل | Apple",
+        "link": "https://www.dastresi.com/brands/49"
+      },
+      {
+        "id": 84,
+        "title": "کملیون | Camelion",
+        "link": "https://www.dastresi.com/brands/21"
+      },
+      {
+        "id": 85,
+        "title": "کلومن پلاس | Koluman Plus",
+        "link": "https://www.dastresi.com/brands/55"
+      },
+      {
+        "id": 86,
+        "title": "یسیدو | yesido",
+        "link": "https://www.dastresi.com/brands/68"
+      },
+      {
+        "id": 87,
+        "title": "نزتک | Naztech",
+        "link": "https://www.dastresi.com/brands/34"
+      },
+      {
+        "id": 88,
+        "title": "پرووان | ProOne",
+        "link": "https://www.dastresi.com/brands/16"
+      },
+      {
+        "id": 89,
+        "title": "ال دی نیو | Ldnio",
+        "link": "https://www.dastresi.com/brands/15"
+      },
+      {
+        "id": 90,
+        "title": "دوراسل | Duracell",
+        "link": "https://www.dastresi.com/brands/66"
+      },
+      {
+        "id": 91,
+        "title": "سومو | Somo",
+        "link": "https://www.dastresi.com/brands/12"
+      },
+      {
+        "id": 92,
+        "title": "بیسوس | Baseus",
+        "link": "https://www.dastresi.com/brands/11"
+      },
+      {
+        "id": 93,
+        "title": "بویا | Boya",
+        "link": "https://www.dastresi.com/brands/38"
+      },
+      {
+        "id": 94,
+        "title": "مک دودو | Mcdodo",
+        "link": "https://www.dastresi.com/brands/8"
+      },
+      {
+        "id": 95,
+        "title": "پاورولوژی | Powerology",
+        "link": "https://www.dastresi.com/brands/39"
+      },
+      {
+        "id": 96,
+        "title": "راوپاور | Ravpower",
+        "link": "https://www.dastresi.com/brands/6"
+      },
+      {
+        "id": 97,
+        "title": "آکی | Aukey",
+        "link": "https://www.dastresi.com/brands/40"
+      },
+      {
+        "id": 98,
+        "title": "انکر | Anker",
+        "link": "https://www.dastresi.com/brands/4"
+      },
+      {
+        "id": 99,
+        "title": "آینوبن | inoben",
+        "link": "https://www.dastresi.com/products?brands[0]=5"
+      },
+      {
+        "id": 100,
+        "title": "مومکس | Momax",
+        "link": "https://www.dastresi.com/products?brands[0]=45"
+      },
+      {
+        "id": 101,
+        "title": "وسترن دیجیتال | Western Digital",
+        "link": "https://www.dastresi.com/products?brands[0]=2"
+      },
+      {
+        "id": 102,
+        "title": "شیائومی | Xiaomi",
+        "link": "https://www.dastresi.com/products?brands[0]=70"
+      },
+      {
+        "id": 103,
+        "title": "پاناسونیک | Panasonic",
+        "link": "https://www.dastresi.com/products?brands[0]=65"
+      },
+      {
+        "id": 104,
+        "title": "نیکین | Neekin",
+        "link": "https://www.dastresi.com/products?brands[0]=76"
+      },
+      {
+        "id": 105,
+        "title": "پایونیر | pioneer",
+        "link": "https://www.dastresi.com/products?brands[0]=77"
+      },
+      {
+        "id": 106,
+        "title": "جی پی | GP",
+        "link": "https://www.dastresi.com/products?brands[0]=64"
+      },
+      {
+        "id": 107,
+        "title": "ای فورتک | A4tech",
+        "link": "https://www.dastresi.com/products?brands[0]=63"
+      },
+      {
+        "id": 108,
+        "title": "وان مور | 1more",
+        "link": "https://www.dastresi.com/products?brands[0]=78"
+      },
+      {
+        "id": 109,
+        "title": "مکسل | Maxell",
+        "link": "https://www.dastresi.com/products?brands[0]=67"
+      }
+    ],
+    "sidebarMenu": [
+      {
+        "id": "dropdown-3",
+        "title": "لوازم جانبی موبایل و کامپیوتر",
+        "link": "https://www.dastresi.com/products/mobile-accessories",
+        "hoverItems": [
+          {
+            "id": 1,
+            "title": "کابل شارژ",
+            "link": "https://www.dastresi.com/products/Charging-Cable"
+          },
+          {
+            "id": 2,
+            "title": "کابل شارژ میکرو یو اس بی",
+            "link": "https://www.dastresi.com/products/Microusb-Cable"
+          },
+          {
+            "id": 3,
+            "title": "کابل شارژ تایپ سی",
+            "link": "https://www.dastresi.com/products/TypeC-Cable"
+          },
+          {
+            "id": 4,
+            "title": "کابل شارژ لایتنینگ",
+            "link": "https://www.dastresi.com/products/Lightning-cable"
+          },
+          {
+            "id": 5,
+            "title": "کابل شارژ دو سر تایپ سی",
+            "link": "https://www.dastresi.com/products/typec-to-typec"
+          },
+          {
+            "id": 6,
+            "title": "کابل شارژ تایپ سی به لایتنینگ",
+            "link": "https://www.dastresi.com/products/typec-to-lightning"
+          },
+          {
+            "id": 7,
+            "title": "کابل شارژ سه کاره",
+            "link": "https://www.dastresi.com/products/3-functions"
+          },
+          {
+            "id": 8,
+            "title": "کابل شارژ سامسونگ",
+            "link": "https://www.dastresi.com/products/Samsung-cable"
+          },
+          {
+            "id": 9,
+            "title": "کابل شارژ آیفون",
+            "link": "https://www.dastresi.com/products/iphone-cable"
+          },
+          {
+            "id": 10,
+            "title": "هولدر و نگهدارنده",
+            "link": "https://www.dastresi.com/products/holders"
+          },
+          {
+            "id": 11,
+            "title": "تجهیزات ذخیره سازی",
+            "link": "https://www.dastresi.com/products/153"
+          },
+          {
+            "id": 12,
+            "title": "فلش مموری",
+            "link": "https://www.dastresi.com/products/flash-memory"
+          },
+          {
+            "id": 13,
+            "title": "کارت حافظه",
+            "link": "https://www.dastresi.com/products/memory-card"
+          },
+          {
+            "id": 14,
+            "title": "هارد اکسترنال",
+            "link": "https://www.dastresi.com/products/156"
+          },
+          {
+            "id": 15,
+            "title": "هندزفری و هدست، میکروفون",
+            "link": "https://www.dastresi.com/products/headset"
+          },
+          {
+            "id": 16,
+            "title": "میکروفون",
+            "link": "https://www.dastresi.com/products/167"
+          },
+          {
+            "id": 17,
+            "title": "هندزفری سیم دار",
+            "link": "https://www.dastresi.com/products/Wired-handsfree"
+          },
+          {
+            "id": 18,
+            "title": "هدست سیم دار",
+            "link": "https://www.dastresi.com/products/wired-headset"
+          },
+          {
+            "id": 19,
+            "title": "هدفون بلوتوث",
+            "link": "https://www.dastresi.com/products/Bluetooth-Headphones"
+          },
+          {
+            "id": 20,
+            "title": "هندزفری بلوتوثی",
+            "link": "https://www.dastresi.com/products/bluetooth-handsfree"
+          },
+          {
+            "id": 21,
+            "title": "هندزفری بلوتوث دورگردنی",
+            "link": "https://www.dastresi.com/products/neckband-headset"
+          },
+          {
+            "id": 22,
+            "title": "هندزفری بلوتوث تک گوش",
+            "link": "https://www.dastresi.com/products/125"
+          },
+          {
+            "id": 23,
+            "title": "پاوربانک",
+            "link": "https://www.dastresi.com/products/PowerBank"
+          },
+          {
+            "id": 24,
+            "title": "جامپ استارتر",
+            "link": "https://www.dastresi.com/products/jump-starter"
+          },
+          {
+            "id": 25,
+            "title": "اسپیکر",
+            "link": "https://www.dastresi.com/products/Speaker"
+          },
+          {
+            "id": 26,
+            "title": "ماوس و کیبورد و پدموس",
+            "link": "https://www.dastresi.com/products/172"
+          },
+          {
+            "id": 27,
+            "title": "آداپتور و شارژر",
+            "link": "https://www.dastresi.com/products/Charger"
+          },
+          {
+            "id": 28,
+            "title": "شارژر دیواری",
+            "link": "https://www.dastresi.com/products/wall-charger"
+          },
+          {
+            "id": 29,
+            "title": "شارژر وایرلس",
+            "link": "https://www.dastresi.com/products/wireless-charger"
+          },
+          {
+            "id": 30,
+            "title": "شارژر رومیزی",
+            "link": "https://www.dastresi.com/products/desktop-charger"
+          },
+          {
+            "id": 31,
+            "title": "شارژر فندکی",
+            "link": "https://www.dastresi.com/products/car-charger"
+          },
+          {
+            "id": 32,
+            "title": "شارژر سامسونگ",
+            "link": "https://www.dastresi.com/products/samsung-charger"
+          },
+          {
+            "id": 33,
+            "title": "شارژر آیفون",
+            "link": "https://www.dastresi.com/products/iphone-charger"
+          },
+          {
+            "id": 34,
+            "title": "دسته بازی و خنک کننده موبایل",
+            "link": "https://www.dastresi.com/products/189"
+          },
+          {
+            "id": 35,
+            "title": "انواع تبدیل برق",
+            "link": "https://www.dastresi.com/products/190"
+          },
+          {
+            "id": 36,
+            "title": "کابل و دانگل انتقال تصویر",
+            "link": "https://www.dastresi.com/products/191"
+          },
+          {
+            "id": 37,
+            "title": "هاب تایپ سی و یو اس بی",
+            "link": "https://www.dastresi.com/products/192"
+          },
+          {
+            "id": 38,
+            "title": "فن خنک کننده کامپیوتر",
+            "link": "https://www.dastresi.com/products/193"
+          },
+          {
+            "id": 39,
+            "title": "قاب و گلس",
+            "link": "https://www.dastresi.com/products/198"
+          }
+        ],
+        "tree": [
+          {
+            "id": 1,
+            "title": "کابل شارژ",
+            "link": "https://www.dastresi.com/products/Charging-Cable",
+            "children": [
+              {
+                "title": "کابل شارژ میکرو یو اس بی",
+                "link": "https://www.dastresi.com/products/Microusb-Cable"
+              },
+              {
+                "title": "کابل شارژ تایپ سی",
+                "link": "https://www.dastresi.com/products/TypeC-Cable"
+              },
+              {
+                "title": "کابل شارژ لایتنینگ",
+                "link": "https://www.dastresi.com/products/Lightning-cable"
+              },
+              {
+                "title": "کابل شارژ دو سر تایپ سی",
+                "link": "https://www.dastresi.com/products/typec-to-typec"
+              },
+              {
+                "title": "کابل شارژ تایپ سی به لایتنینگ",
+                "link": "https://www.dastresi.com/products/typec-to-lightning"
+              },
+              {
+                "title": "کابل شارژ سه کاره",
+                "link": "https://www.dastresi.com/products/3-functions"
+              },
+              {
+                "title": "کابل شارژ سامسونگ",
+                "link": "https://www.dastresi.com/products/Samsung-cable"
+              },
+              {
+                "title": "کابل شارژ آیفون",
+                "link": "https://www.dastresi.com/products/iphone-cable"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "هولدر و نگهدارنده",
+            "link": "https://www.dastresi.com/products/holders",
+            "children": []
+          },
+          {
+            "id": 3,
+            "title": "تجهیزات ذخیره سازی",
+            "link": "https://www.dastresi.com/products/153",
+            "children": [
+              {
+                "title": "فلش مموری",
+                "link": "https://www.dastresi.com/products/flash-memory"
+              },
+              {
+                "title": "کارت حافظه",
+                "link": "https://www.dastresi.com/products/memory-card"
+              },
+              {
+                "title": "هارد اکسترنال",
+                "link": "https://www.dastresi.com/products/156"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "title": "هندزفری و هدست، میکروفون",
+            "link": "https://www.dastresi.com/products/headset",
+            "children": [
+              {
+                "title": "میکروفون",
+                "link": "https://www.dastresi.com/products/167"
+              },
+              {
+                "title": "هندزفری سیم دار",
+                "link": "https://www.dastresi.com/products/Wired-handsfree"
+              },
+              {
+                "title": "هدست سیم دار",
+                "link": "https://www.dastresi.com/products/wired-headset"
+              },
+              {
+                "title": "هدفون بلوتوث",
+                "link": "https://www.dastresi.com/products/Bluetooth-Headphones"
+              },
+              {
+                "title": "هندزفری بلوتوثی",
+                "link": "https://www.dastresi.com/products/bluetooth-handsfree"
+              },
+              {
+                "title": "هندزفری بلوتوث دورگردنی",
+                "link": "https://www.dastresi.com/products/neckband-headset"
+              },
+              {
+                "title": "هندزفری بلوتوث تک گوش",
+                "link": "https://www.dastresi.com/products/125"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "title": "پاوربانک",
+            "link": "https://www.dastresi.com/products/PowerBank",
+            "children": [
+              {
+                "title": "جامپ استارتر",
+                "link": "https://www.dastresi.com/products/jump-starter"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "title": "اسپیکر",
+            "link": "https://www.dastresi.com/products/Speaker",
+            "children": []
+          },
+          {
+            "id": 7,
+            "title": "ماوس و کیبورد و پدموس",
+            "link": "https://www.dastresi.com/products/172",
+            "children": []
+          },
+          {
+            "id": 8,
+            "title": "آداپتور و شارژر",
+            "link": "https://www.dastresi.com/products/Charger",
+            "children": [
+              {
+                "title": "شارژر دیواری",
+                "link": "https://www.dastresi.com/products/wall-charger"
+              },
+              {
+                "title": "شارژر وایرلس",
+                "link": "https://www.dastresi.com/products/wireless-charger"
+              },
+              {
+                "title": "شارژر رومیزی",
+                "link": "https://www.dastresi.com/products/desktop-charger"
+              },
+              {
+                "title": "شارژر فندکی",
+                "link": "https://www.dastresi.com/products/car-charger"
+              },
+              {
+                "title": "شارژر سامسونگ",
+                "link": "https://www.dastresi.com/products/samsung-charger"
+              },
+              {
+                "title": "شارژر آیفون",
+                "link": "https://www.dastresi.com/products/iphone-charger"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "title": "دسته بازی و خنک کننده موبایل",
+            "link": "https://www.dastresi.com/products/189",
+            "children": []
+          },
+          {
+            "id": 10,
+            "title": "انواع تبدیل برق",
+            "link": "https://www.dastresi.com/products/190",
+            "children": []
+          },
+          {
+            "id": 11,
+            "title": "کابل و دانگل انتقال تصویر",
+            "link": "https://www.dastresi.com/products/191",
+            "children": []
+          },
+          {
+            "id": 12,
+            "title": "هاب تایپ سی و یو اس بی",
+            "link": "https://www.dastresi.com/products/192",
+            "children": []
+          },
+          {
+            "id": 13,
+            "title": "فن خنک کننده کامپیوتر",
+            "link": "https://www.dastresi.com/products/193",
+            "children": []
+          },
+          {
+            "id": 14,
+            "title": "قاب و گلس",
+            "link": "https://www.dastresi.com/products/198",
+            "children": []
+          }
+        ],
+        "interaction": "expandable"
+      },
+      {
+        "id": "dropdown-33",
+        "title": "کابل - مبدل - رابط",
+        "link": "https://www.dastresi.com/products/132",
+        "hoverItems": [
+          {
+            "id": 1,
+            "title": "کابل HDMI",
+            "link": "https://www.dastresi.com/products/hdmi-cable"
+          },
+          {
+            "id": 2,
+            "title": "کابل پرینتر",
+            "link": "https://www.dastresi.com/products/135"
+          },
+          {
+            "id": 3,
+            "title": "کابل هارد اکسترنال",
+            "link": "https://www.dastresi.com/products/137"
+          },
+          {
+            "id": 4,
+            "title": "انواع رابط و تبدیل",
+            "link": "https://www.dastresi.com/products/139"
+          },
+          {
+            "id": 5,
+            "title": "کابل AUX",
+            "link": "https://www.dastresi.com/products/158"
+          },
+          {
+            "id": 6,
+            "title": "کابل 2 به 1 صدا",
+            "link": "https://www.dastresi.com/products/163"
+          },
+          {
+            "id": 7,
+            "title": "کابل اپتیکال",
+            "link": "https://www.dastresi.com/products/166"
+          },
+          {
+            "id": 8,
+            "title": "کابل و فیش OTG",
+            "link": "https://www.dastresi.com/products/196"
+          }
+        ],
+        "tree": [
+          {
+            "id": 1,
+            "title": "کابل HDMI",
+            "link": "https://www.dastresi.com/products/hdmi-cable",
+            "children": []
+          },
+          {
+            "id": 2,
+            "title": "کابل پرینتر",
+            "link": "https://www.dastresi.com/products/135",
+            "children": []
+          },
+          {
+            "id": 3,
+            "title": "کابل هارد اکسترنال",
+            "link": "https://www.dastresi.com/products/137",
+            "children": []
+          },
+          {
+            "id": 4,
+            "title": "انواع رابط و تبدیل",
+            "link": "https://www.dastresi.com/products/139",
+            "children": []
+          },
+          {
+            "id": 5,
+            "title": "کابل AUX",
+            "link": "https://www.dastresi.com/products/158",
+            "children": []
+          },
+          {
+            "id": 6,
+            "title": "کابل 2 به 1 صدا",
+            "link": "https://www.dastresi.com/products/163",
+            "children": []
+          },
+          {
+            "id": 7,
+            "title": "کابل اپتیکال",
+            "link": "https://www.dastresi.com/products/166",
+            "children": []
+          },
+          {
+            "id": 8,
+            "title": "کابل و فیش OTG",
+            "link": "https://www.dastresi.com/products/196",
+            "children": []
+          }
+        ],
+        "interaction": "expandable"
+      },
+      {
+        "id": "dropdown-37",
+        "title": "لوازم تولید محتوا",
+        "link": "https://www.dastresi.com/products/186",
+        "hoverItems": [
+          {
+            "id": 1,
+            "title": "میکروفون",
+            "link": "https://www.dastresi.com/products/microphone"
+          },
+          {
+            "id": 2,
+            "title": "رینگ لایت و پایه",
+            "link": "https://www.dastresi.com/products/188"
+          }
+        ],
+        "tree": [
+          {
+            "id": 1,
+            "title": "میکروفون",
+            "link": "https://www.dastresi.com/products/microphone",
+            "children": []
+          },
+          {
+            "id": 2,
+            "title": "رینگ لایت و پایه",
+            "link": "https://www.dastresi.com/products/188",
+            "children": []
+          }
+        ],
+        "interaction": "expandable"
+      },
+      {
+        "id": "dropdown-50",
+        "title": "لوازم شبکه",
+        "link": "https://www.dastresi.com/products/141",
+        "hoverItems": [
+          {
+            "id": 1,
+            "title": "مودم - روتر",
+            "link": "https://www.dastresi.com/products/150"
+          },
+          {
+            "id": 2,
+            "title": "هاب شبکه",
+            "link": "https://www.dastresi.com/products/151"
+          },
+          {
+            "id": 3,
+            "title": "مودم همراه",
+            "link": "https://www.dastresi.com/products/152"
+          },
+          {
+            "id": 4,
+            "title": "لوازم جانبی",
+            "link": "https://www.dastresi.com/products/168"
+          }
+        ],
+        "tree": [
+          {
+            "id": 1,
+            "title": "مودم - روتر",
+            "link": "https://www.dastresi.com/products/150",
+            "children": []
+          },
+          {
+            "id": 2,
+            "title": "هاب شبکه",
+            "link": "https://www.dastresi.com/products/151",
+            "children": []
+          },
+          {
+            "id": 3,
+            "title": "مودم همراه",
+            "link": "https://www.dastresi.com/products/152",
+            "children": []
+          },
+          {
+            "id": 4,
+            "title": "لوازم جانبی",
+            "link": "https://www.dastresi.com/products/168",
+            "children": []
+          }
+        ],
+        "interaction": "expandable"
+      },
+      {
+        "id": "dropdown-62",
+        "title": "کنسول بازی و لوازم جانبی",
+        "link": "https://www.dastresi.com/products/177",
+        "hoverItems": [
+          {
+            "id": 1,
+            "title": "دسته بازی",
+            "link": "https://www.dastresi.com/products/128"
+          },
+          {
+            "id": 2,
+            "title": "هندزفری و هدست",
+            "link": "https://www.dastresi.com/products/127"
+          },
+          {
+            "id": 3,
+            "title": "موس و کیبورد",
+            "link": "https://www.dastresi.com/products/171"
+          },
+          {
+            "id": 4,
+            "title": "کیف",
+            "link": "https://www.dastresi.com/products/178"
+          },
+          {
+            "id": 5,
+            "title": "کنسول",
+            "link": "https://www.dastresi.com/products/181"
+          },
+          {
+            "id": 6,
+            "title": "شارژر دسته بازی",
+            "link": "https://www.dastresi.com/products/182"
+          }
+        ],
+        "tree": [
+          {
+            "id": 1,
+            "title": "دسته بازی",
+            "link": "https://www.dastresi.com/products/128",
+            "children": []
+          },
+          {
+            "id": 2,
+            "title": "هندزفری و هدست",
+            "link": "https://www.dastresi.com/products/127",
+            "children": []
+          },
+          {
+            "id": 3,
+            "title": "موس و کیبورد",
+            "link": "https://www.dastresi.com/products/171",
+            "children": []
+          },
+          {
+            "id": 4,
+            "title": "کیف",
+            "link": "https://www.dastresi.com/products/178",
+            "children": []
+          },
+          {
+            "id": 5,
+            "title": "کنسول",
+            "link": "https://www.dastresi.com/products/181",
+            "children": []
+          },
+          {
+            "id": 6,
+            "title": "شارژر دسته بازی",
+            "link": "https://www.dastresi.com/products/182",
+            "children": []
+          }
+        ],
+        "interaction": "expandable"
+      },
+      {
+        "id": "dropdown-68",
+        "title": "لوازم خانگی و شخصی",
+        "link": "https://www.dastresi.com/products/160",
+        "hoverItems": [
+          {
+            "id": 1,
+            "title": "انواع گجت های جذاب",
+            "link": "https://www.dastresi.com/products/159"
+          },
+          {
+            "id": 2,
+            "title": "ماشین اصلاح سر و صورت",
+            "link": "https://www.dastresi.com/products/213"
+          },
+          {
+            "id": 3,
+            "title": "باتری و شارژر",
+            "link": "https://www.dastresi.com/products/battery"
+          },
+          {
+            "id": 4,
+            "title": "باتری آلکالاین",
+            "link": "https://www.dastresi.com/products/143"
+          },
+          {
+            "id": 5,
+            "title": "باتری ساده",
+            "link": "https://www.dastresi.com/products/144"
+          },
+          {
+            "id": 6,
+            "title": "باتری شارژی",
+            "link": "https://www.dastresi.com/products/147"
+          },
+          {
+            "id": 7,
+            "title": "شارژر باتری",
+            "link": "https://www.dastresi.com/products/148"
+          },
+          {
+            "id": 8,
+            "title": "باتری سکه ای",
+            "link": "https://www.dastresi.com/products/149"
+          },
+          {
+            "id": 9,
+            "title": "اندروید باکس و گیرنده دیجیتال",
+            "link": "https://www.dastresi.com/products/161"
+          },
+          {
+            "id": 10,
+            "title": "ابزار",
+            "link": "https://www.dastresi.com/products/208"
+          },
+          {
+            "id": 11,
+            "title": "مچ بند و ساعت هوشمند",
+            "link": "https://www.dastresi.com/products/smartwatch"
+          },
+          {
+            "id": 12,
+            "title": "محصولات کمبو",
+            "link": "https://www.dastresi.com/products/175"
+          },
+          {
+            "id": 13,
+            "title": "اف ام پلیر",
+            "link": "https://www.dastresi.com/products/195"
+          },
+          {
+            "id": 14,
+            "title": "رابط برق و USB",
+            "link": "https://www.dastresi.com/products/194"
+          }
+        ],
+        "tree": [
+          {
+            "id": 1,
+            "title": "انواع گجت های جذاب",
+            "link": "https://www.dastresi.com/products/159",
+            "children": []
+          },
+          {
+            "id": 2,
+            "title": "ماشین اصلاح سر و صورت",
+            "link": "https://www.dastresi.com/products/213",
+            "children": []
+          },
+          {
+            "id": 3,
+            "title": "باتری و شارژر",
+            "link": "https://www.dastresi.com/products/battery",
+            "children": [
+              {
+                "title": "باتری آلکالاین",
+                "link": "https://www.dastresi.com/products/143"
+              },
+              {
+                "title": "باتری ساده",
+                "link": "https://www.dastresi.com/products/144"
+              },
+              {
+                "title": "باتری شارژی",
+                "link": "https://www.dastresi.com/products/147"
+              },
+              {
+                "title": "شارژر باتری",
+                "link": "https://www.dastresi.com/products/148"
+              },
+              {
+                "title": "باتری سکه ای",
+                "link": "https://www.dastresi.com/products/149"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "title": "اندروید باکس و گیرنده دیجیتال",
+            "link": "https://www.dastresi.com/products/161",
+            "children": [
+              {
+                "title": "ابزار",
+                "link": "https://www.dastresi.com/products/208"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "title": "مچ بند و ساعت هوشمند",
+            "link": "https://www.dastresi.com/products/smartwatch",
+            "children": []
+          },
+          {
+            "id": 6,
+            "title": "محصولات کمبو",
+            "link": "https://www.dastresi.com/products/175",
+            "children": []
+          },
+          {
+            "id": 7,
+            "title": "اف ام پلیر",
+            "link": "https://www.dastresi.com/products/195",
+            "children": []
+          },
+          {
+            "id": 8,
+            "title": "رابط برق و USB",
+            "link": "https://www.dastresi.com/products/194",
+            "children": []
+          }
+        ],
+        "interaction": "expandable"
+      },
+      {
+        "id": "brand-dropdown",
+        "title": "برند‌ها",
+        "link": "https://www.dastresi.com/products",
+        "hoverItems": [
+          {
+            "id": 1,
+            "title": "هایلو Haylou",
+            "link": "https://www.dastresi.com/brands/haylo"
+          },
+          {
+            "id": 2,
+            "title": "دای هارد Die Hard",
+            "link": "https://www.dastresi.com/brands/24"
+          },
+          {
+            "id": 3,
+            "title": "اسکال کندی SkullCandy",
+            "link": "https://www.dastresi.com/brands/91"
+          },
+          {
+            "id": 4,
+            "title": "اپل Apple",
+            "link": "https://www.dastresi.com/brands/49"
+          },
+          {
+            "id": 5,
+            "title": "کملیون Camelion",
+            "link": "https://www.dastresi.com/brands/21"
+          },
+          {
+            "id": 6,
+            "title": "کلومن پلاس Koluman Plus",
+            "link": "https://www.dastresi.com/brands/55"
+          },
+          {
+            "id": 7,
+            "title": "یسیدو yesido",
+            "link": "https://www.dastresi.com/brands/yesido"
+          },
+          {
+            "id": 8,
+            "title": "نزتک Naztech",
+            "link": "https://www.dastresi.com/brands/34"
+          },
+          {
+            "id": 9,
+            "title": "پرووان ProOne",
+            "link": "https://www.dastresi.com/brands/16"
+          },
+          {
+            "id": 10,
+            "title": "ال دی نیو Ldnio",
+            "link": "https://www.dastresi.com/brands/Ldnio"
+          },
+          {
+            "id": 11,
+            "title": "دوراسل Duracell",
+            "link": "https://www.dastresi.com/brands/66"
+          },
+          {
+            "id": 12,
+            "title": "سومو Somo",
+            "link": "https://www.dastresi.com/brands/somo"
+          },
+          {
+            "id": 13,
+            "title": "بیسوس Baseus",
+            "link": "https://www.dastresi.com/brands/Baseus"
+          },
+          {
+            "id": 14,
+            "title": "بویا Boya",
+            "link": "https://www.dastresi.com/brands/Boya"
+          },
+          {
+            "id": 15,
+            "title": "مک دودو Mcdodo",
+            "link": "https://www.dastresi.com/brands/mcdodo"
+          },
+          {
+            "id": 16,
+            "title": "پاورولوژی Powerology",
+            "link": "https://www.dastresi.com/brands/powerology"
+          },
+          {
+            "id": 17,
+            "title": "راوپاور Ravpower",
+            "link": "https://www.dastresi.com/brands/ravpower"
+          },
+          {
+            "id": 18,
+            "title": "آکی Aukey",
+            "link": "https://www.dastresi.com/brands/Aukey"
+          },
+          {
+            "id": 19,
+            "title": "انکر Anker",
+            "link": "https://www.dastresi.com/brands/anker"
+          },
+          {
+            "id": 20,
+            "title": "آینوبن inoben",
+            "link": "https://www.dastresi.com/products?brands[0]=5"
+          },
+          {
+            "id": 21,
+            "title": "مومکس Momax",
+            "link": "https://www.dastresi.com/products?brands[0]=45"
+          },
+          {
+            "id": 22,
+            "title": "وسترن دیجیتال Western Digital",
+            "link": "https://www.dastresi.com/products?brands[0]=2"
+          },
+          {
+            "id": 23,
+            "title": "شیائومی Xiaomi",
+            "link": "https://www.dastresi.com/products?brands[0]=70"
+          },
+          {
+            "id": 24,
+            "title": "پاناسونیک Panasonic",
+            "link": "https://www.dastresi.com/products?brands[0]=65"
+          },
+          {
+            "id": 25,
+            "title": "نیکین Neekin",
+            "link": "https://www.dastresi.com/products?brands[0]=76"
+          },
+          {
+            "id": 26,
+            "title": "پایونیر pioneer",
+            "link": "https://www.dastresi.com/products?brands[0]=77"
+          },
+          {
+            "id": 27,
+            "title": "جی پی GP",
+            "link": "https://www.dastresi.com/products?brands[0]=64"
+          },
+          {
+            "id": 28,
+            "title": "ای فورتک A4tech",
+            "link": "https://www.dastresi.com/products?brands[0]=63"
+          },
+          {
+            "id": 29,
+            "title": "وان مور 1more",
+            "link": "https://www.dastresi.com/products?brands[0]=78"
+          },
+          {
+            "id": 30,
+            "title": "مکسل Maxell",
+            "link": "https://www.dastresi.com/products?brands[0]=67"
+          },
+          {
+            "id": 31,
+            "title": "مشاهده دیگر برندها",
+            "link": "https://www.dastresi.com/products"
+          }
+        ],
+        "tree": [
+          {
+            "id": 1,
+            "title": "هایلو Haylou",
+            "link": "https://www.dastresi.com/brands/haylo",
+            "children": []
+          },
+          {
+            "id": 2,
+            "title": "دای هارد Die Hard",
+            "link": "https://www.dastresi.com/brands/24",
+            "children": []
+          },
+          {
+            "id": 3,
+            "title": "اسکال کندی SkullCandy",
+            "link": "https://www.dastresi.com/brands/91",
+            "children": []
+          },
+          {
+            "id": 4,
+            "title": "اپل Apple",
+            "link": "https://www.dastresi.com/brands/49",
+            "children": []
+          },
+          {
+            "id": 5,
+            "title": "کملیون Camelion",
+            "link": "https://www.dastresi.com/brands/21",
+            "children": []
+          },
+          {
+            "id": 6,
+            "title": "کلومن پلاس Koluman Plus",
+            "link": "https://www.dastresi.com/brands/55",
+            "children": []
+          },
+          {
+            "id": 7,
+            "title": "یسیدو yesido",
+            "link": "https://www.dastresi.com/brands/yesido",
+            "children": []
+          },
+          {
+            "id": 8,
+            "title": "نزتک Naztech",
+            "link": "https://www.dastresi.com/brands/34",
+            "children": []
+          },
+          {
+            "id": 9,
+            "title": "پرووان ProOne",
+            "link": "https://www.dastresi.com/brands/16",
+            "children": []
+          },
+          {
+            "id": 10,
+            "title": "ال دی نیو Ldnio",
+            "link": "https://www.dastresi.com/brands/Ldnio",
+            "children": []
+          },
+          {
+            "id": 11,
+            "title": "دوراسل Duracell",
+            "link": "https://www.dastresi.com/brands/66",
+            "children": []
+          },
+          {
+            "id": 12,
+            "title": "سومو Somo",
+            "link": "https://www.dastresi.com/brands/somo",
+            "children": []
+          },
+          {
+            "id": 13,
+            "title": "بیسوس Baseus",
+            "link": "https://www.dastresi.com/brands/Baseus",
+            "children": []
+          },
+          {
+            "id": 14,
+            "title": "بویا Boya",
+            "link": "https://www.dastresi.com/brands/Boya",
+            "children": []
+          },
+          {
+            "id": 15,
+            "title": "مک دودو Mcdodo",
+            "link": "https://www.dastresi.com/brands/mcdodo",
+            "children": []
+          },
+          {
+            "id": 16,
+            "title": "پاورولوژی Powerology",
+            "link": "https://www.dastresi.com/brands/powerology",
+            "children": []
+          },
+          {
+            "id": 17,
+            "title": "راوپاور Ravpower",
+            "link": "https://www.dastresi.com/brands/ravpower",
+            "children": []
+          },
+          {
+            "id": 18,
+            "title": "آکی Aukey",
+            "link": "https://www.dastresi.com/brands/Aukey",
+            "children": []
+          },
+          {
+            "id": 19,
+            "title": "انکر Anker",
+            "link": "https://www.dastresi.com/brands/anker",
+            "children": []
+          },
+          {
+            "id": 20,
+            "title": "آینوبن inoben",
+            "link": "https://www.dastresi.com/products?brands[0]=5",
+            "children": []
+          },
+          {
+            "id": 21,
+            "title": "مومکس Momax",
+            "link": "https://www.dastresi.com/products?brands[0]=45",
+            "children": []
+          },
+          {
+            "id": 22,
+            "title": "وسترن دیجیتال Western Digital",
+            "link": "https://www.dastresi.com/products?brands[0]=2",
+            "children": []
+          },
+          {
+            "id": 23,
+            "title": "شیائومی Xiaomi",
+            "link": "https://www.dastresi.com/products?brands[0]=70",
+            "children": []
+          },
+          {
+            "id": 24,
+            "title": "پاناسونیک Panasonic",
+            "link": "https://www.dastresi.com/products?brands[0]=65",
+            "children": []
+          },
+          {
+            "id": 25,
+            "title": "نیکین Neekin",
+            "link": "https://www.dastresi.com/products?brands[0]=76",
+            "children": []
+          },
+          {
+            "id": 26,
+            "title": "پایونیر pioneer",
+            "link": "https://www.dastresi.com/products?brands[0]=77",
+            "children": []
+          },
+          {
+            "id": 27,
+            "title": "جی پی GP",
+            "link": "https://www.dastresi.com/products?brands[0]=64",
+            "children": []
+          },
+          {
+            "id": 28,
+            "title": "ای فورتک A4tech",
+            "link": "https://www.dastresi.com/products?brands[0]=63",
+            "children": []
+          },
+          {
+            "id": 29,
+            "title": "وان مور 1more",
+            "link": "https://www.dastresi.com/products?brands[0]=78",
+            "children": []
+          },
+          {
+            "id": 30,
+            "title": "مکسل Maxell",
+            "link": "https://www.dastresi.com/products?brands[0]=67",
+            "children": []
+          },
+          {
+            "id": 31,
+            "title": "مشاهده دیگر برندها",
+            "link": "https://www.dastresi.com/products",
+            "children": []
+          }
+        ],
+        "interaction": "expandable"
+      }
+    ]
+  },
+  "slider": [
+    {
+      "id": 1,
+      "title": "پنکه",
+      "link": "https://www.dastresi.com/products?search=%D9%BE%D9%86%DA%A9%D9%87",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/08/02/cool-dastresi.jpg"
+    },
+    {
+      "id": 2,
+      "title": "بنر می بند ۱۰ پرو",
+      "link": "https://www.dastresi.com/product/Xiaomi-M2552B1",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/06/30/mib10-dastresi-desk (1).jpg"
+    },
+    {
+      "id": 3,
+      "title": "لیبرتی ۵ پرو",
+      "link": "https://www.dastresi.com/product/Anker-D1203",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/06/28/leb-5 (2).jpg"
+    },
+    {
+      "id": 4,
+      "title": "سامسونگ بنر",
+      "link": "https://www.dastresi.com/product/Samsung60W-PowerAdapter",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/05/23/banner-somsung--dastresi-banner.jpg"
+    },
+    {
+      "id": 5,
+      "title": "پاور استیشن 1790",
+      "link": "https://www.dastresi.com/products?search=%D9%BE%D8%A7%D9%88%D8%B1%D8%A7%D8%B3%D8%AA%DB%8C%D8%B4%D9%86",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/04/26/anker-banner-dastresi.jpg"
+    }
+  ],
+  "featuredCategories": [
+    {
+      "id": 1,
+      "title": "کابل شارژ",
+      "link": "https://www.dastresi.com/products/Charging-Cable",
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/cable.png"
+    },
+    {
+      "id": 2,
+      "title": "آداپتور و شارژر",
+      "link": "https://www.dastresi.com/products/Charger",
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/adaptor.png"
+    },
+    {
+      "id": 3,
+      "title": "پاوربانک",
+      "link": "https://www.dastresi.com/products/PowerBank",
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/powerbank.png"
+    },
+    {
+      "id": 4,
+      "title": "هندزفری و هدست، میکروفون",
+      "link": "https://www.dastresi.com/products/headset",
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/handsfree.png"
+    },
+    {
+      "id": 5,
+      "title": "هولدر و نگهدارنده",
+      "link": "https://www.dastresi.com/products/holders",
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/Holder Negahdarande.png"
+    },
+    {
+      "id": 6,
+      "title": "کابل - مبدل - رابط",
+      "link": "https://www.dastresi.com/products/132",
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/mobadel o rabet.png"
+    },
+    {
+      "id": 7,
+      "title": "باتری و شارژر",
+      "link": "https://www.dastresi.com/products/battery",
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/battery.png"
+    },
+    {
+      "id": 8,
+      "title": "کنسول بازی و لوازم جانبی",
+      "link": "https://www.dastresi.com/products/177",
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/gaming.png"
+    }
+  ],
+  "dailyDeals": [
+    {
+      "title": "پاوربانک 20 هزار 22.5 واتی مک دودو با کابل متصل مدل Mcdodo MC-8530",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/05/07/15532208-dastresi-1.jpg",
+      "alt": "پاور بانک 20000 مک دودو MCDODO مدل MC-8530 توان 22.5وات با کابل",
+      "link": "https://www.dastresi.com/product/Mcdodo-8530",
+      "category": "",
+      "price": 4890000,
+      "oldPrice": 5390000,
+      "currency": "تومان",
+      "available": true,
+      "id": 1
+    },
+    {
+      "title": "پاوربانک 10000 میلی آمپر 45 واتی با کابل متصل تایپ سی مک دودو مدل Mcdodo MC-5920",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/01/28/mcdodo-592-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Mcdodo-5920",
+      "category": "",
+      "price": 4980000,
+      "oldPrice": 5380000,
+      "currency": "تومان",
+      "available": true,
+      "id": 2
+    },
+    {
+      "title": "پاوربانک 10000 میلی آمپری 30 واتی وایرلس شارژ مگ سیف qi2 مدل Vision پاورولوژی Powerology PPB20910BK",
+      "img": "https://www.dastresi.com/upload/filemanager/2025/11/25/powerology-10kmag-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Powerology-PPB20910BK",
+      "category": "",
+      "price": 6390000,
+      "oldPrice": 7500000,
+      "currency": "تومان",
+      "available": true,
+      "id": 3
+    },
+    {
+      "title": "هدزفری بلوتوثی دورگردنی اکستروم مدل Axtrom ANBST13",
+      "img": "https://www.dastresi.com/upload/filemanager/2025/08/19/AXTROM-ANBST12-.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Axtrom-ANBST13",
+      "category": "",
+      "price": 1390000,
+      "oldPrice": 1890000,
+      "currency": "تومان",
+      "available": true,
+      "id": 4
+    },
+    {
+      "title": "لامپ 9W حبابی اضطراری شارژی EDC",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/08/29/edc-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/EDC-9W",
+      "category": "",
+      "price": 694000,
+      "oldPrice": 994000,
+      "currency": "تومان",
+      "available": true,
+      "id": 5
+    }
+  ],
+  "newlyAvailable": [
+    {
+      "title": "کابل HDMI به VGA مک دودو مدل Mcdod...",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/06/30/MCDODO-7770-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Mcdodo-7770",
+      "category": "کابل - مبدل - رابط",
+      "price": 2045000,
+      "oldPrice": 2545000,
+      "currency": "تومان",
+      "available": true,
+      "colors": ["#000000"],
+      "id": 6
+    },
+    {
+      "title": "پنکه دستی Windix گرین لاین مدل Gre...",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/06/28/PANKE-WIN-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Green-GNPF13WINWH",
+      "category": "انواع گجت های جذاب",
+      "price": 1690000,
+      "oldPrice": 1890000,
+      "currency": "تومان",
+      "available": true,
+      "colors": ["#ffffff"],
+      "id": 7
+    },
+    {
+      "title": "اسپیکر بلوتوثی 16 واتی Select 3 ان...",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/06/27/anker3172-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Anker-A3172",
+      "category": "اسپیکر",
+      "price": 0,
+      "oldPrice": 0,
+      "currency": "تومان",
+      "available": false,
+      "colors": ["#000000"],
+      "id": 8
+    },
+    {
+      "title": "اسپیکر بلوتوثی انکر سلکت 4 گو 5 وا...",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/06/27/GO4ANKER-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Anker-A31X11",
+      "category": "اسپیکر",
+      "price": 3840000,
+      "oldPrice": 0,
+      "currency": "تومان",
+      "available": true,
+      "colors": ["#000000", "#16a34a"],
+      "id": 9
+    },
+    {
+      "title": "چراغ خواب پروژکتوری کهکشانی گرین ل...",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/06/21/greeen-2222.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Green-GNATNLPRJ",
+      "category": "انواع گجت های جذاب",
+      "price": 0,
+      "oldPrice": 0,
+      "currency": "تومان",
+      "available": false,
+      "colors": ["#16a34a"],
+      "id": 10
+    },
+    {
+      "title": "هولدر وکیوم چرخش 360 درجه مک دودو ...",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/02/23/MCDODO-8420-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Mcdodo-8420",
+      "category": "هولدر و نگهدارنده",
+      "price": 1950000,
+      "oldPrice": 0,
+      "currency": "تومان",
+      "available": true,
+      "colors": ["#000000"],
+      "id": 11
+    },
+    {
+      "title": "ساعت هوشمند مک دودو مدل Mcdodo IW-...",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/02/23/mcdodo-757-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Mcdodo-7570",
+      "category": "انواع گجت های جذاب",
+      "price": 5095000,
+      "oldPrice": 0,
+      "currency": "تومان",
+      "available": true,
+      "colors": ["#000000"],
+      "id": 12
+    },
+    {
+      "title": "جامپ استارتر و پمپ باد 15200 میلی ...",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/02/22/PORO4KARE-111.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Porodo-PD15KJSPBK",
+      "category": "انواع گجت های جذاب",
+      "price": 18500000,
+      "oldPrice": 0,
+      "currency": "تومان",
+      "available": true,
+      "colors": ["#000000", "#f97316"],
+      "id": 13
+    },
+    {
+      "title": "رابط برق 4 خانه 10 متری پرودو مدل ...",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/02/15/PORODO10M-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Porodo-4ACEC10MBK",
+      "category": "انواع گجت های جذاب",
+      "price": 0,
+      "oldPrice": 0,
+      "currency": "تومان",
+      "available": false,
+      "colors": ["#000000"],
+      "id": 14
+    },
+    {
+      "title": "پمپ باد گرین INFLATOR مدل Green Li...",
+      "img": "https://www.dastresi.com/upload/filemanager/2025/04/12/POMP-GREEN-11.jpg",
+      "alt": "پمپ باد گرین INFLATOR مدل Green Lion GNTYIRNFBK",
+      "link": "https://www.dastresi.com/product/Green-GNTYIRNFBK",
+      "category": "انواع گجت های جذاب",
+      "price": 4400000,
+      "oldPrice": 5180000,
+      "currency": "تومان",
+      "available": true,
+      "colors": ["#000000"],
+      "id": 15
+    },
+    {
+      "title": "شارژر رومیزی 140 واتی الدینیو مدل ...",
+      "img": "https://www.dastresi.com/upload/filemanager/2025/04/05/Q4010-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Ldnio-Q4010",
+      "category": "شارژر رومیزی",
+      "price": 0,
+      "oldPrice": 0,
+      "currency": "تومان",
+      "available": false,
+      "colors": ["#ffffff"],
+      "id": 16
+    }
+  ],
+  "bestSellers": [
+    {
+      "title": "شارژر دیواری راوپاور 20 واتی گان5 ...",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/06/23/3135123-3.jpg",
+      "alt": "شارژر دیواری 20 وات راو پاور مدل RP-PC1055",
+      "link": "https://www.dastresi.com/product/Ravpower-PC1055",
+      "category": "لوازم جانبی موبایل و کامپیوتر",
+      "price": 1550000,
+      "oldPrice": 2050000,
+      "currency": "تومان",
+      "available": true,
+      "colors": ["#ffffff"],
+      "id": 17
+    },
+    {
+      "title": "پمپ باد گرین INFLATOR مدل Green Li...",
+      "img": "https://www.dastresi.com/upload/filemanager/2025/04/12/POMP-GREEN-11.jpg",
+      "alt": "پمپ باد گرین INFLATOR مدل Green Lion GNTYIRNFBK",
+      "link": "https://www.dastresi.com/product/Green-GNTYIRNFBK",
+      "category": "انواع گجت های جذاب",
+      "price": 4400000,
+      "oldPrice": 5180000,
+      "currency": "تومان",
+      "available": true,
+      "colors": ["#000000"],
+      "id": 15
+    },
+    {
+      "title": "شارژر دیواری 67 واتی گان با کابل ت...",
+      "img": "https://www.dastresi.com/upload/filemanager/2025/03/03/MCDODO-4100-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Mcdodo-CH410",
+      "category": "شارژر دیواری",
+      "price": 4395000,
+      "oldPrice": 4631000,
+      "currency": "تومان",
+      "available": true,
+      "colors": ["#000000"],
+      "id": 18
+    },
+    {
+      "title": "شارژر دیواری 25 وات هادرون مدل Had...",
+      "img": "https://www.dastresi.com/upload/filemanager/2025/02/13/HADRON-25W-22.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Hadron-C1011",
+      "category": "شارژر دیواری",
+      "price": 1870000,
+      "oldPrice": 1900000,
+      "currency": "تومان",
+      "available": true,
+      "colors": ["#000000"],
+      "id": 19
+    },
+    {
+      "title": "باتری نیم قلم 10 تایی شیائومی مدل ...",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/10/23/battrey-xiaomi-NIM-1161.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Xiaomi-ZI7",
+      "category": "باتری آلکالاین",
+      "price": 980000,
+      "oldPrice": 0,
+      "currency": "تومان",
+      "available": true,
+      "colors": ["#f59e0b", "#22c55e", "#ef4444"],
+      "id": 20
+    },
+    {
+      "title": "باتری قلمی 10تایی شیائومی مدل Xiao...",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/10/23/battrey-xiaomi-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Xiaomi-ZI5",
+      "category": "باتری آلکالاین",
+      "price": 980000,
+      "oldPrice": 0,
+      "currency": "تومان",
+      "available": true,
+      "colors": ["#f59e0b", "#22c55e", "#ef4444"],
+      "id": 21
+    },
+    {
+      "title": "کیبورد بلوتوثی مافی مدل Mofii Phoe...",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/10/19/Untitled-1.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Mofii-Phoenix",
+      "category": "ماوس و کیبورد و پدموس",
+      "price": 2990000,
+      "oldPrice": 3190000,
+      "currency": "تومان",
+      "available": true,
+      "colors": ["#a855f7", "#ec4899"],
+      "id": 22
+    },
+    {
+      "title": "هندزفری بلوتوثی ورزشی القایی پاورو...",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/10/02/0088-1.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Powerology-Pwlau008",
+      "category": "هندزفری بلوتوثی",
+      "price": 4800000,
+      "oldPrice": 5100000,
+      "currency": "تومان",
+      "available": true,
+      "colors": ["#000000"],
+      "id": 23
+    },
+    {
+      "title": "شارژر دیواری گان 100 واتی الدینیو ...",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/09/30/Untitled-1.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Ldnio-Q408",
+      "category": "شارژر دیواری",
+      "price": 4500000,
+      "oldPrice": 5500000,
+      "currency": "تومان",
+      "available": true,
+      "colors": ["#000000"],
+      "id": 24
+    },
+    {
+      "title": "فلش مموری وریتی ظرفیت 64 گیگ مدل V...",
+      "img": "https://www.dastresi.com/upload/filemanager/2021/03/17/VER-810-1.jpg",
+      "alt": "وریتی",
+      "link": "https://www.dastresi.com/product/1038",
+      "category": "فلش مموری",
+      "price": 1350000,
+      "oldPrice": 1503000,
+      "currency": "تومان",
+      "available": true,
+      "colors": ["#c0c0c0"],
+      "id": 25
+    },
+    {
+      "title": "فلش مموری وریتی ظرفیت 16 گیگ مدل V...",
+      "img": "https://www.dastresi.com/upload/filemanager/2021/03/17/VER-810-1.jpg",
+      "alt": "وریتی",
+      "link": "https://www.dastresi.com/product/1037",
+      "category": "فلش مموری",
+      "price": 790000,
+      "oldPrice": 820000,
+      "currency": "تومان",
+      "available": true,
+      "colors": ["#c0c0c0"],
+      "id": 26
+    }
+  ],
+  "products": [
+    {
+      "title": "پاوربانک 20 هزار 22.5 واتی مک دودو با کابل متصل مدل Mcdodo MC-8530",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/05/07/15532208-dastresi-1.jpg",
+      "alt": "پاور بانک 20000 مک دودو MCDODO مدل MC-8530 توان 22.5وات با کابل",
+      "link": "https://www.dastresi.com/product/Mcdodo-8530",
+      "category": "",
+      "price": 4890000,
+      "oldPrice": 5390000,
+      "currency": "تومان",
+      "available": true,
+      "id": 1
+    },
+    {
+      "title": "پاوربانک 10000 میلی آمپر 45 واتی با کابل متصل تایپ سی مک دودو مدل Mcdodo MC-5920",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/01/28/mcdodo-592-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Mcdodo-5920",
+      "category": "",
+      "price": 4980000,
+      "oldPrice": 5380000,
+      "currency": "تومان",
+      "available": true,
+      "id": 2
+    },
+    {
+      "title": "پاوربانک 10000 میلی آمپری 30 واتی وایرلس شارژ مگ سیف qi2 مدل Vision پاورولوژی Powerology PPB20910BK",
+      "img": "https://www.dastresi.com/upload/filemanager/2025/11/25/powerology-10kmag-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Powerology-PPB20910BK",
+      "category": "",
+      "price": 6390000,
+      "oldPrice": 7500000,
+      "currency": "تومان",
+      "available": true,
+      "id": 3
+    },
+    {
+      "title": "هدزفری بلوتوثی دورگردنی اکستروم مدل Axtrom ANBST13",
+      "img": "https://www.dastresi.com/upload/filemanager/2025/08/19/AXTROM-ANBST12-.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Axtrom-ANBST13",
+      "category": "",
+      "price": 1390000,
+      "oldPrice": 1890000,
+      "currency": "تومان",
+      "available": true,
+      "id": 4
+    },
+    {
+      "title": "لامپ 9W حبابی اضطراری شارژی EDC",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/08/29/edc-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/EDC-9W",
+      "category": "",
+      "price": 694000,
+      "oldPrice": 994000,
+      "currency": "تومان",
+      "available": true,
+      "id": 5
+    },
+    {
+      "title": "کابل HDMI به VGA مک دودو مدل Mcdod...",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/06/30/MCDODO-7770-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Mcdodo-7770",
+      "category": "کابل - مبدل - رابط",
+      "price": 2045000,
+      "oldPrice": 2545000,
+      "currency": "تومان",
+      "available": true,
+      "id": 6
+    },
+    {
+      "title": "پنکه دستی Windix گرین لاین مدل Gre...",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/06/28/PANKE-WIN-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Green-GNPF13WINWH",
+      "category": "انواع گجت های جذاب",
+      "price": 1690000,
+      "oldPrice": 1890000,
+      "currency": "تومان",
+      "available": true,
+      "id": 7
+    },
+    {
+      "title": "اسپیکر بلوتوثی 16 واتی Select 3 ان...",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/06/27/anker3172-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Anker-A3172",
+      "category": "اسپیکر",
+      "price": 0,
+      "oldPrice": 0,
+      "currency": "تومان",
+      "available": false,
+      "id": 8
+    },
+    {
+      "title": "اسپیکر بلوتوثی انکر سلکت 4 گو 5 وا...",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/06/27/GO4ANKER-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Anker-A31X11",
+      "category": "اسپیکر",
+      "price": 3840000,
+      "oldPrice": 0,
+      "currency": "تومان",
+      "available": true,
+      "id": 9
+    },
+    {
+      "title": "چراغ خواب پروژکتوری کهکشانی گرین ل...",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/06/21/greeen-2222.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Green-GNATNLPRJ",
+      "category": "انواع گجت های جذاب",
+      "price": 0,
+      "oldPrice": 0,
+      "currency": "تومان",
+      "available": false,
+      "id": 10
+    },
+    {
+      "title": "هولدر وکیوم چرخش 360 درجه مک دودو ...",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/02/23/MCDODO-8420-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Mcdodo-8420",
+      "category": "هولدر و نگهدارنده",
+      "price": 1950000,
+      "oldPrice": 0,
+      "currency": "تومان",
+      "available": true,
+      "id": 11
+    },
+    {
+      "title": "ساعت هوشمند مک دودو مدل Mcdodo IW-...",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/02/23/mcdodo-757-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Mcdodo-7570",
+      "category": "انواع گجت های جذاب",
+      "price": 5095000,
+      "oldPrice": 0,
+      "currency": "تومان",
+      "available": true,
+      "id": 12
+    },
+    {
+      "title": "جامپ استارتر و پمپ باد 15200 میلی ...",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/02/22/PORO4KARE-111.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Porodo-PD15KJSPBK",
+      "category": "انواع گجت های جذاب",
+      "price": 18500000,
+      "oldPrice": 0,
+      "currency": "تومان",
+      "available": true,
+      "id": 13
+    },
+    {
+      "title": "رابط برق 4 خانه 10 متری پرودو مدل ...",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/02/15/PORODO10M-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Porodo-4ACEC10MBK",
+      "category": "انواع گجت های جذاب",
+      "price": 0,
+      "oldPrice": 0,
+      "currency": "تومان",
+      "available": false,
+      "id": 14
+    },
+    {
+      "title": "پمپ باد گرین INFLATOR مدل Green Li...",
+      "img": "https://www.dastresi.com/upload/filemanager/2025/04/12/POMP-GREEN-11.jpg",
+      "alt": "پمپ باد گرین INFLATOR مدل Green Lion GNTYIRNFBK",
+      "link": "https://www.dastresi.com/product/Green-GNTYIRNFBK",
+      "category": "انواع گجت های جذاب",
+      "price": 4400000,
+      "oldPrice": 5180000,
+      "currency": "تومان",
+      "available": true,
+      "id": 15
+    },
+    {
+      "title": "شارژر رومیزی 140 واتی الدینیو مدل ...",
+      "img": "https://www.dastresi.com/upload/filemanager/2025/04/05/Q4010-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Ldnio-Q4010",
+      "category": "شارژر رومیزی",
+      "price": 0,
+      "oldPrice": 0,
+      "currency": "تومان",
+      "available": false,
+      "id": 16
+    },
+    {
+      "title": "شارژر دیواری راوپاور 20 واتی گان5 ...",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/06/23/3135123-3.jpg",
+      "alt": "شارژر دیواری 20 وات راو پاور مدل RP-PC1055",
+      "link": "https://www.dastresi.com/product/Ravpower-PC1055",
+      "category": "لوازم جانبی موبایل و کامپیوتر",
+      "price": 1550000,
+      "oldPrice": 2050000,
+      "currency": "تومان",
+      "available": true,
+      "id": 17
+    },
+    {
+      "title": "شارژر دیواری 67 واتی گان با کابل ت...",
+      "img": "https://www.dastresi.com/upload/filemanager/2025/03/03/MCDODO-4100-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Mcdodo-CH410",
+      "category": "شارژر دیواری",
+      "price": 4395000,
+      "oldPrice": 4631000,
+      "currency": "تومان",
+      "available": true,
+      "id": 18
+    },
+    {
+      "title": "شارژر دیواری 25 وات هادرون مدل Had...",
+      "img": "https://www.dastresi.com/upload/filemanager/2025/02/13/HADRON-25W-22.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Hadron-C1011",
+      "category": "شارژر دیواری",
+      "price": 1870000,
+      "oldPrice": 1900000,
+      "currency": "تومان",
+      "available": true,
+      "id": 19
+    },
+    {
+      "title": "باتری نیم قلم 10 تایی شیائومی مدل ...",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/10/23/battrey-xiaomi-NIM-1161.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Xiaomi-ZI7",
+      "category": "باتری آلکالاین",
+      "price": 980000,
+      "oldPrice": 0,
+      "currency": "تومان",
+      "available": true,
+      "id": 20
+    },
+    {
+      "title": "باتری قلمی 10تایی شیائومی مدل Xiao...",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/10/23/battrey-xiaomi-11.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Xiaomi-ZI5",
+      "category": "باتری آلکالاین",
+      "price": 980000,
+      "oldPrice": 0,
+      "currency": "تومان",
+      "available": true,
+      "id": 21
+    },
+    {
+      "title": "کیبورد بلوتوثی مافی مدل Mofii Phoe...",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/10/19/Untitled-1.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Mofii-Phoenix",
+      "category": "ماوس و کیبورد و پدموس",
+      "price": 2990000,
+      "oldPrice": 3190000,
+      "currency": "تومان",
+      "available": true,
+      "id": 22
+    },
+    {
+      "title": "هندزفری بلوتوثی ورزشی القایی پاورو...",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/10/02/0088-1.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Powerology-Pwlau008",
+      "category": "هندزفری بلوتوثی",
+      "price": 4800000,
+      "oldPrice": 5100000,
+      "currency": "تومان",
+      "available": true,
+      "id": 23
+    },
+    {
+      "title": "شارژر دیواری گان 100 واتی الدینیو ...",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/09/30/Untitled-1.jpg",
+      "alt": "",
+      "link": "https://www.dastresi.com/product/Ldnio-Q408",
+      "category": "شارژر دیواری",
+      "price": 4500000,
+      "oldPrice": 5500000,
+      "currency": "تومان",
+      "available": true,
+      "id": 24
+    },
+    {
+      "title": "فلش مموری وریتی ظرفیت 64 گیگ مدل V...",
+      "img": "https://www.dastresi.com/\r\nupload/filemanager/2021/03/17/VER-810-1.jpg",
+      "alt": "وریتی",
+      "link": "https://www.dastresi.com/product/1038",
+      "category": "فلش مموری",
+      "price": 1350000,
+      "oldPrice": 1503000,
+      "currency": "تومان",
+      "available": true,
+      "id": 25
+    },
+    {
+      "title": "فلش مموری وریتی ظرفیت 16 گیگ مدل V...",
+      "img": "https://www.dastresi.com/\r\nupload/filemanager/2021/03/17/VER-810-1.jpg",
+      "alt": "وریتی",
+      "link": "https://www.dastresi.com/product/1037",
+      "category": "فلش مموری",
+      "price": 790000,
+      "oldPrice": 820000,
+      "currency": "تومان",
+      "available": true,
+      "id": 26
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "title": "انکر",
+      "link": "https://www.dastresi.com/brands/anker",
+      "img": "https://www.dastresi.com/upload/filemanager/2022/02/24/logo-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "راوپاور",
+      "link": "https://www.dastresi.com/brands/ravpower",
+      "img": "https://www.dastresi.com/upload/filemanager/2022/02/24/Untitled-159.jpg"
+    },
+    {
+      "id": 3,
+      "title": "مک دودو",
+      "link": "https://www.dastresi.com/brands/mcdodo",
+      "img": "https://www.dastresi.com/upload/filemanager/2022/02/26/H64c19886758b40378c31d5f46c5ae984A.jpg"
+    },
+    {
+      "id": 4,
+      "title": "سومو",
+      "link": "https://www.dastresi.com/brands/somo",
+      "img": "https://www.dastresi.com/upload/filemanager/2022/04/09/somo logo.png"
+    },
+    {
+      "id": 5,
+      "title": "کملیون",
+      "link": "https://www.dastresi.com/products?brands[0]=21",
+      "img": "https://www.dastresi.com/upload/filemanager/2022/03/07/logp.jpg"
+    },
+    {
+      "id": 6,
+      "title": "پاورولوژی",
+      "link": "https://www.dastresi.com/brands/powerology",
+      "img": "https://www.dastresi.com/upload/filemanager/2022/03/17/logo.jpg"
+    },
+    {
+      "id": 7,
+      "title": "ایس فست",
+      "link": "https://www.dastresi.com/brands/AceFast",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/11/21/Untitled-1.jpg"
+    }
+  ],
+  "latestArticles": [
+    {
+      "id": 1,
+      "title": "فلش ۱۲۸ گیگ USB3 یا USB2",
+      "link": "https://www.dastresi.com/article/128gb-flash-usb3-vs-usb2-buying-guide",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/08/31/w22-hero-wm.jpg"
+    },
+    {
+      "id": 2,
+      "title": "قطع و وصل شدن شارژر",
+      "link": "https://www.dastresi.com/article/charger-disconnect-cable-or-adapter",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/08/27/w06-hero-wm.jpg"
+    },
+    {
+      "id": 3,
+      "title": "عوارض کابل شارژ تقلبی",
+      "link": "https://www.dastresi.com/article/dangers-of-fake-charging-cables",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/08/26/featured-hero-wm.jpg"
+    },
+    {
+      "id": 4,
+      "title": "چند وات شارژر برای آیفون لازم است",
+      "link": "https://www.dastresi.com/article/iphone-charger-wattage-guide",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/08/25/w12-hero-wm.jpg"
+    },
+    {
+      "id": 5,
+      "title": "HDMI تصویر ندارد",
+      "link": "https://www.dastresi.com/article/hdmi-no-picture-troubleshooting",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/08/24/w18-hero-wm.jpg"
+    },
+    {
+      "id": 6,
+      "title": "چشمک زدن پاوربانک",
+      "link": "https://www.dastresi.com/article/powerbank-blinking-lights-meaning",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/08/22/w10-hero-wm.jpg"
+    },
+    {
+      "id": 7,
+      "title": "هندزفری بلوتوث وصل نمی‌شود",
+      "link": "https://www.dastresi.com/article/fix-bluetooth-earbuds-connection-issues",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/08/20/w04-hero-wm.jpg"
+    },
+    {
+      "id": 8,
+      "title": "مشکل پاوربانک",
+      "link": "https://www.dastresi.com/article/power-bank-not-charging-troubleshooting",
+      "img": "https://www.dastresi.com/upload/filemanager/2026/08/18/w16-hero-wm.jpg"
+    }
+  ],
+  "responsive": {
+    "desktop": {
+      "featuredCategoryIds": [1, 2, 3, 4, 5, 6, 7, 8],
+      "productCardLayout": "carousel",
+      "sectionOrder": [
+        "slider",
+        "dailyDeals",
+        "featuredCategories",
+        "newlyAvailable",
+        "services",
+        "bestSellers",
+        "brands",
+        "latestArticles"
+      ]
+    },
+    "mobile": {
+      "featuredCategoryIds": [1, 2, 3, 4, 5, 6],
+      "productCardLayout": "stacked-carousel",
+      "sectionOrder": [
+        "slider",
+        "dailyDeals",
+        "featuredCategories",
+        "newlyAvailable",
+        "services",
+        "bestSellers",
+        "brands",
+        "latestArticles"
+      ]
+    }
+  },
+  "services": [
+    {
+      "id": 1,
+      "title": "مشاوره تخصصی برای خرید محصول",
+      "description": "برای خرید هر محصول با تیم دسترسی در ارتباط باشید تا بهترین انتخاب رو انجام دهید.",
+      "img": "https://www.dastresi.com/images/icons/icon2.png"
+    },
+    {
+      "id": 2,
+      "title": "قیمت مناسب با بالاترین کیفیت",
+      "description": "گروه دسترسی در تلاش است که کالای با کیفیت را با مناسب‌ترین قیمت به دست شما برساند.",
+      "img": "https://www.dastresi.com/images/icons/icon1.png"
+    },
+    {
+      "id": 3,
+      "title": "ارسال سریع",
+      "description": "ارسال از طریق تیپاکس، پست پیشتاز و پیک موتوری (ویژه تهران) صورت می‌گیرد.",
+      "img": "https://www.dastresi.com/images/icons/icon3.png"
+    },
+    {
+      "id": 4,
+      "title": "امکان خرید حضوری",
+      "description": "برای خرید حضوری به آدرس مندرج در پایین سایت مراجعه کنید.",
+      "img": "https://www.dastresi.com/images/icons/icon4.png"
+    }
+  ],
+  "footer": {
+    "phone": "021-33902646",
+    "businessHours": "شنبه تا چهارشنبه از ساعت 10 صبح الی ساعت 18 پنجشنبه ها از 10 صبح الی ساعت 16",
+    "address": "تهران - میدان امام خمینی - پاساژ لباف - همکف - پلاک 3 - فروشگاه بدیع",
+    "about": "فروشگاه دسترسی فعالیت خود را از سال ۱۳۸۹ به صورت فروش فیزیکی کالا در حوزه لوازم جانبی کامپیوتر و موبایل در تهران شروع کرد و از سال ۱۳۹۸ از طریق پیج اینستاگرام وارد فروش آنلاین شد. به خاطر ارائه کالای اصلی و مشاوره‌های دقیق، در بازه بسیار کوتاهی توانست اعتماد بسیاری از مشتریانش را جلب کند و سرانجام در سال ۱۳۹۹ فروش از طریق سایت را هم به فعالیت‌های خود اضافه کرد تا بتواند با بررسی دقیق کالاها انتخاب صحیح شما را به ارمغان آورد. امروز دسترسی فعالیت خود را در زمینه آداپتور موبایل، کابل شارژ، پاوربانک، ساعت هوشمند، هندزفری و هدست، لوازم گیمینگ، باتری و شارژر، لوازم شبکه، تجهیزات ذخیره‌سازی، گیرنده دیجیتال و هزاران گجت جذاب ادامه می‌دهد.",
+    "logo": "https://www.dastresi.com/images/logo/logo.png",
+    "socialLinks": [
+      {
+        "name": "instagram",
+        "icon": "https://www.dastresi.com/images/icons/instagram.png",
+        "link": "https://instagram.com"
+      }
+    ],
+    "quickLinks": [
+      {
+        "title": "باشگاه مشتریان",
+        "link": "https://www.dastresi.com/customer-club"
+      },
+      {
+        "title": "سوالات متداول",
+        "link": "https://www.dastresi.com/faq"
+      },
+      {
+        "title": "بلاگ",
+        "link": "https://www.dastresi.com/blog"
+      },
+      {
+        "title": "شرایط و قوانین",
+        "link": "https://www.dastresi.com/terms"
+      },
+      {
+        "title": "ارتباط ما",
+        "link": "https://www.dastresi.com/contact"
+      },
+      {
+        "title": "درباره ما",
+        "link": "https://www.dastresi.com/about"
+      }
+    ],
+
+    "trustBadge": {
+      "img": "https://www.dastresi.com/favicon.png",
+      "link": "https://trustseal.enamad.ir/?id=744814&Code=G8SZ0T9b8u6Ip3fQYYxxPNIKW4lWUUuI"
+    },
+    "copyright": "تمامی حقوق این سایت محفوظ و متعلق به فروشگاه اینترنتی دسترسی می‌باشد."
+  },
+  "homeImages": [
+    {
+      "img": "https://www.dastresi.com/images/logo/logo.png",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/08/02/cool-dastresi.jpg",
+      "alt": "پنکه"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/06/30/mib10-dastresi-desk (1).jpg",
+      "alt": "بنر می بند ۱۰ پرو"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/06/28/leb-5 (2).jpg",
+      "alt": "لیبرتی ۵ پرو"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/05/23/banner-somsung--dastresi-banner.jpg",
+      "alt": "سامسونگ بنر"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/04/26/anker-banner-dastresi.jpg",
+      "alt": "پاور استیشن 1790"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/05/07/15532208-dastresi-1.jpg",
+      "alt": "پاور بانک 20000 مک دودو MCDODO مدل MC-8530 توان 22.5وات با کابل"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/01/28/mcdodo-592-11.jpg",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2025/11/25/powerology-10kmag-11.jpg",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2025/08/19/AXTROM-ANBST12-.jpg",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/08/29/edc-11.jpg",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/cable.png",
+      "alt": "کابل شارژ"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/adaptor.png",
+      "alt": "آداپتور و شارژر"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/powerbank.png",
+      "alt": "پاوربانک"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/handsfree.png",
+      "alt": "هندزفری و هدست، میکروفون"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/Holder Negahdarande.png",
+      "alt": "هولدر و نگهدارنده"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/mobadel o rabet.png",
+      "alt": "کابل - مبدل - رابط"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/battery.png",
+      "alt": "باتری و شارژر"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/gaming.png",
+      "alt": "کنسول بازی و لوازم جانبی"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/06/30/MCDODO-7770-11.jpg",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/06/28/PANKE-WIN-11.jpg",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/06/27/anker3172-11.jpg",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/06/27/GO4ANKER-11.jpg",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/06/21/greeen-2222.jpg",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/02/23/MCDODO-8420-11.jpg",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/02/23/mcdodo-757-11.jpg",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/02/22/PORO4KARE-111.jpg",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/02/15/PORODO10M-11.jpg",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2025/04/12/POMP-GREEN-11.jpg",
+      "alt": "پمپ باد گرین INFLATOR مدل Green Lion GNTYIRNFBK"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2025/04/05/Q4010-11.jpg",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/images/icons/icon2.png",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/images/icons/icon1.png",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/images/icons/icon3.png",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/images/icons/icon4.png",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/06/23/3135123-3.jpg",
+      "alt": "شارژر دیواری 20 وات راو پاور مدل RP-PC1055"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2025/03/03/MCDODO-4100-11.jpg",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2025/02/13/HADRON-25W-22.jpg",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2024/10/23/battrey-xiaomi-NIM-1161.jpg",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2024/10/23/battrey-xiaomi-11.jpg",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2024/10/19/Untitled-1.jpg",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2024/10/02/0088-1.jpg",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2024/09/30/Untitled-1.jpg",
+      "alt": ""
+    },
+    {
+      "img": "https://www.dastresi.com/\r\nupload/filemanager/2021/03/17/VER-810-1.jpg",
+      "alt": "وریتی"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2022/02/24/logo-1.jpg",
+      "alt": "انکر"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2022/02/24/Untitled-159.jpg",
+      "alt": "راوپاور"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2022/02/26/H64c19886758b40378c31d5f46c5ae984A.jpg",
+      "alt": "مک دودو"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2022/04/09/somo logo.png",
+      "alt": "سومو"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2022/03/07/logp.jpg",
+      "alt": "کملیون"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2022/03/17/logo.jpg",
+      "alt": "پاورولوژی"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2024/11/21/Untitled-1.jpg",
+      "alt": "ایس فست"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/08/31/w22-hero-wm.jpg",
+      "alt": "فلش ۱۲۸ گیگ USB3 یا USB2"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/08/27/w06-hero-wm.jpg",
+      "alt": "قطع و وصل شدن شارژر"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/08/26/featured-hero-wm.jpg",
+      "alt": "عوارض کابل شارژ تقلبی"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/08/25/w12-hero-wm.jpg",
+      "alt": "چند وات شارژر برای آیفون لازم است"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/08/24/w18-hero-wm.jpg",
+      "alt": "HDMI تصویر ندارد"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/08/22/w10-hero-wm.jpg",
+      "alt": "چشمک زدن پاوربانک"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/08/20/w04-hero-wm.jpg",
+      "alt": "هندزفری بلوتوث وصل نمی‌شود"
+    },
+    {
+      "img": "https://www.dastresi.com/upload/filemanager/2026/08/18/w16-hero-wm.jpg",
+      "alt": "مشکل پاوربانک"
+    },
+    {
+      "img": "https://www.dastresi.com/images/icons/instagram.png",
+      "alt": ""
+    },
+    {
+      "img": "https://trustseal.enamad.ir/logo.aspx?id=744814&Code=G8SZ0T9b8u6Ip3fQYYxxPNIKW4lWUUuI",
+      "alt": ""
+    }
+  ]
+}
