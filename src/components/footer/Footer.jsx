@@ -68,23 +68,27 @@ function LocationIcon({ className = "h-5.5" }) {
 
 export default function Footer({ footer }) {
   return (
-    <footer className="mt-16 text-right w-full">
-      <div className="bg-[#dedede] py-6">
-        <div className="mx-auto flex  max-w-7xl flex-col gap-5 text-sm text-[#777] lg:flex-row lg:items-center lg:justify-evenly">
-          <div className="flex flex-col gap-x-3 gap-y-6 px-4 lg:flex-row lg:items-center lg:gap-8">
-            <div className="flex w-full items-center gap-2 text-[#777]">
-              <PhoneIcon />
-              <span>{footer.phone}</span>
+    <footer className="w-full text-right lg:mt-20 mt-15">
+      <div className="bg-[#e2e2e2] w-full">
+        <div className="mx-auto  p-6 text-sm text-black/87 w-full">
+          <div className="flex flex-col justify-between lg:flex-row max-w-7xl w-full mx-auto">
+            <div className="mb-4 flex items-center gap-2 text-black/60 lg:mb-0">
+              <PhoneIcon className="h-5" />
+              <span className="text-wrap lg:text-nowrap">{footer.phone}</span>
             </div>
 
-            <div className="flex w-full items-center gap-2 text-[#777]">
-              <ClockIcon />
-              <span className="leading-7">{footer.businessHours}</span>
+            <div className="mb-4 flex items-center gap-2 text-black/60 lg:mb-0">
+              <ClockIcon className="h-6 " />
+              <span className="leading-7 text-wrap lg:text-nowrap">
+                {footer.businessHours}
+              </span>
             </div>
 
-            <div className="flex w-full items-center gap-2 text-[#777]">
-              <LocationIcon />
-              <span className="leading-7">{footer.address}</span>
+            <div className="flex items-center gap-2 text-black/60">
+              <LocationIcon className="mt-1 h-6 lg:mt-0" />
+              <span className="leading-7 text-wrap lg:text-nowrap">
+                {footer.address}
+              </span>
             </div>
 
             <BackToTop />
@@ -92,23 +96,23 @@ export default function Footer({ footer }) {
         </div>
       </div>
 
-      <div className="bg-[#F5F5F5] py-4">
-        <div className="mx-auto max-w-7xl my-8">
-          <div className="items-center gap-6 lg:w-[95%] flex flex-wrap justify-center">
+      <div className="bg-[#F5F5F5]">
+        <div className="mx-auto flex max-w-301.5 flex-col gap-8 px-4 py-4 lg:flex-row lg:py-8">
+          <div className="contents">
             {/* logo */}
-            <div className="text-center w-full">
+            <div className="flex flex-col items-center justify-center gap-8 pt-8 lg:pt-0">
               <Image
                 src={footer.logo}
-                width={220}
-                height={100}
+                width={190}
+                height={86}
                 alt="Dastresi"
-                className="mx-auto w-47"
+                className="max-w-[190px]"
               />
 
-              <div className="mt-8 flex justify-center gap-3 items-center">
+              <div className="flex flex-row flex-wrap justify-center gap-4">
                 <span>با ما در ارتباط باشید:</span>
                 {footer.socialLinks.map((social) => (
-                  <a key={social.name} href={social.link}>
+                  <a key={social.name} href={social.link} className="px-2">
                     <Image
                       src={social.icon}
                       width={24}
@@ -120,23 +124,21 @@ export default function Footer({ footer }) {
               </div>
             </div>
             {/* about */}
-            <div className="w-full px-5">
-              <h3 className="mb-5 text-xl font-bold text-[#111]">
+            <div className="mt-4 md:mt-0">
+              <h3 className="mb-4 text-xl font-bold text-black/87">
                 فروشگاه اینترنتی دسترسی
               </h3>
-              <p className="leading-7 text-[#777] text-[16px] max-h-77">
-                {footer.about}
-              </p>{" "}
+              <p className="leading-7 text-black/60">{footer.about}</p>{" "}
             </div>
             {/* links */}
             <div className="w-full">
-              <h3 className="mb-4 text-xl font-bold text-[#111] text-center">
+              <h3 className="mb-4 text-center text-xl font-bold md:text-right">
                 دسترسی سریع
               </h3>
 
-              <ul className="space-y-4 text-[#777] text-sm px-5">
+              <ul className="flex flex-col text-sm text-[#777]">
                 {footer.quickLinks.map((item) => (
-                  <li key={item.title}>
+                  <li key={item.title} className="mb-4">
                     <a href={item.link}>{item.title}</a>
                   </li>
                 ))}
@@ -146,7 +148,7 @@ export default function Footer({ footer }) {
         </div>
       </div>
 
-      <div className="bg-[#0058bd] py-4 text-center text-sm font-bold text-white">
+      <div className="bg-[#0058bd] py-3 text-center text-sm font-medium text-white">
         {footer.copyright}
       </div>
     </footer>

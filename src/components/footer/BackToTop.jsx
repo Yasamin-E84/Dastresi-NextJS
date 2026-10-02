@@ -4,7 +4,7 @@ export default function BackToTop() {
   return (
     <button
       onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
-      className="w-fit hidden lg:flex items-center justify-between rounded-xl bg-white px-2 min-w-25 py-3 text-sm text-[#757575] shadow-sm"
+      className="hidden w-24 items-center justify-between rounded-xl bg-white py-2 pr-2 pl-1 text-xs leading-5 text-[#757575] shadow-md xl:flex"
     >
       <span>برو بالا</span>
 

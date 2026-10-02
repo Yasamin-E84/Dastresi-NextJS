@@ -46,7 +46,7 @@ export default async function Home() {
   return (
     <>
       <Header />
-      <main className="w-full bg-[#FAFAFA]">
+      <main className="w-full bg-[#FAFAFA] lg:pt-40">
         <HeroSlider slides={slides} />
         <DailyDeals products={dailyDeals} />
         <FeaturedCategories categories={featuredCategories} />

@@ -8,12 +8,12 @@ export default async function Header() {
 
   return (
     <>
-      <div className="hidden lg:block border-b border-gray-200 w-full">
+      <header className="hidden lg:block border-b border-gray-200 w-full fixed bg-white z-100">
         <div className="max-w-7xl mx-auto">
           <BusyHeader site={site} desktopHeader={desktopHeader} />
           <CategoryNav items={megaMenu} />
         </div>
-      </div>
+      </header>
 
       <MobileHeader site={site} mobileHeader={mobileHeader} />
     </>

@@ -36,7 +36,7 @@ export default function ArticlesCarousel({ articles }) {
           pagination={{ clickable: true }}
           breakpoints={{
             0: {
-              slidesPerView: 1.35,
+              slidesPerView: 2,
               spaceBetween: 12,
             },
             640: {
@@ -48,13 +48,13 @@ export default function ArticlesCarousel({ articles }) {
               spaceBetween: 20,
             },
           }}
-          className="articles-swiper pb-12 [--swiper-pagination-color:#222] [--swiper-pagination-bullet-inactive-color:#e5e7eb] [--swiper-pagination-bullet-inactive-opacity:1] [--swiper-pagination-bullet-size:10px] [--swiper-pagination-bullet-horizontal-gap:5px]"
+          className="articles-swiper [--swiper-pagination-color:#222] [--swiper-pagination-bullet-inactive-color:#e5e7eb] [--swiper-pagination-bullet-inactive-opacity:1] [--swiper-pagination-bullet-size:10px] [--swiper-pagination-bullet-horizontal-gap:5px]"
         >
           {articles.map((article) => (
             <SwiperSlide key={article.id}>
               <a
                 href={article.link}
-                className="block overflow-hidden rounded-xl bg-white shadow-sm transition hover:shadow-lg"
+                className="block overflow-hidden mb-10 rounded-xl bg-white shadow-sm transition hover:shadow-lg"
               >
                 <div className="relative h-36 w-full lg:h-38">
                   <Image
@@ -116,7 +116,7 @@ export default function ArticlesCarousel({ articles }) {
       </div>
       <style jsx global>{`
         .articles-swiper .swiper-pagination {
-          top: 100%;
+          top: 230;
         }
 
         .articles-swiper .swiper-pagination-bullet {
